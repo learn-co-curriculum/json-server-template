@@ -1,22 +1,41 @@
-{ 
-  "teams": [{
-    "id": 0, 
-    "sportsDbId": "134946",
-    "name": "Arizona Cardinals", 
-    "division": "string", 
-    "logo": "https://www.thesportsdb.com/images/media/team/badge/xvuwtw1420646838.png", 
-    "yearFounded": "1898", 
-    "lastFiveGameScores": [ { "opponent": "Arizona Cardinals vs San Francisco 49ers", "score": "12-20", "highlight": "https://www.youtube.com/watch?v=MNXXo5w0DFU" }], 
-    "stretch": "chat area: [ ]"
-  }], 
-  "upcomingEvents": [ {
-    "id": 0, 
-    "teamsId": 0,
-    "userId": 0,
-    "date": "string", 
-    "time": "string",
-    "opponent": "string",
-    "location": "string", 
-    "comments": [ ]
-  }]
+{
+  "teams": [
+    {
+      "id": 0,
+      "sportsDbId": "134946",
+      "name": "Arizona Cardinals",
+      "division": "string",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/xvuwtw1420646838.png",
+      "yearFounded": "1898",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Arizona Cardinals vs San Francisco 49ers",
+          "score": "12-20",
+          "highlight": "https://www.youtube.com/watch?v=MNXXo5w0DFU"
+        }
+      ],
+      "stretch": "chat area: [ ]"
+    }
+  ],
+  "upcomingEvents": [
+    {
+      "id": 0,
+      "teamsId": 0,
+      "userId": 0,
+      "date": "string",
+      "time": "string",
+      "opponent": "string",
+      "location": "string",
+      "comments": []
+    },
+    {
+      "teamsId": 0,
+      "title": "Bar Night",
+      "location": "NYC",
+      "opponent": "drinks on me",
+      "date": "4/2",
+      "time": "8PM",
+      "id": 1
+    }
+  ]
 }

@@ -1,52 +1,502 @@
 {
-  "toys": [
+  "politicians": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "name": "Joyce Griggs",
+      "party": "Democrat",
+      "district": "GA-01",
+      "image": "https://i.imgur.com/7u30wpp.jpg",
+      "contributors": [
+        {
+          "orgName": "Columbus State University",
+          "total": 2800,
+          "industry": "Education"
+        },
+        {
+          "orgName": "Union State Bank",
+          "total": 2800,
+          "industry": "Financial"
+        },
+        {
+          "orgName": "PG Government",
+          "total": 2020,
+          "industry": "Government"
+        },
+        {
+          "orgName": "Alps Services",
+          "total": 1000,
+          "industry": "Medical"
+        },
+        {
+          "orgName": "Altidote Films",
+          "total": 1000,
+          "industry": "Media"
+        },
+        {
+          "orgName": "Benedict Silverman Foundation",
+          "total": 1000,
+          "industry": "Philanthropy"
+        },
+        {
+          "orgName": "Fordham University",
+          "total": 1000,
+          "industry": "Education"
+        },
+        {
+          "orgName": "Liberty County Democratic",
+          "total": 1000,
+          "industry": "Government"
+        },
+        {
+          "orgName": "Strelitzia Ventures",
+          "total": 1000,
+          "industry": "Philanthropy"
+        },
+        {
+          "orgName": "University of Maryland",
+          "total": 1000,
+          "industry": "Education"
+        }
+      ],
+      "isWatched": false
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "name": "Buddy Carter",
+      "party": "Republican",
+      "district": "GA-01",
+      "image": "https://i.imgur.com/uInwnc1.jpg",
+      "contributors": [
+        {
+          "orgName": "General Dynamics",
+          "total": 17010,
+          "industry": "Technology"
+        },
+        {
+          "orgName": "Associated Urological Specialists",
+          "total": 16000,
+          "industry": "Medical"
+        },
+        {
+          "orgName": "ClearPath Foundation",
+          "total": 14300,
+          "industry": "Technology"
+        },
+        {
+          "orgName": "Lee Container Corp",
+          "total": 12600,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "National Community Pharmacists Association",
+          "total": 12500,
+          "industry": "Medical"
+        },
+        {
+          "orgName": "Medquest Pharmacy",
+          "total": 11200,
+          "industry": "Medical"
+        },
+        {
+          "orgName": "AT&T Inc",
+          "total": 11000,
+          "industry": "Technology"
+        },
+        {
+          "orgName": "Home Depot",
+          "total": 10500,
+          "industry": "Retail"
+        },
+        {
+          "orgName": "International Paper",
+          "total": 10500,
+          "industry": "Manufacturing"
+        },
+        {
+          "orgName": "Koch Industries",
+          "total": 10500,
+          "industry": "Manufacturing"
+        }
+      ],
+      "isWatched": false
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "name": "Sanford Bishop",
+      "party": "Democrat",
+      "district": "GA-02",
+      "image": "https://i.imgur.com/gI0wFnP.jpg",
+      "contributors": [
+        {
+          "orgName": "AFLAC Inc",
+          "total": 16350,
+          "industry": "Insurance"
+        },
+        {
+          "orgName": "Raytheon Technologies",
+          "total": 13500,
+          "industry": "Defense"
+        },
+        {
+          "orgName": "Teamsters Union",
+          "total": 10050,
+          "industry": "Associations"
+        },
+        {
+          "orgName": "Alabama Farmers Federation",
+          "total": 10000,
+          "industry": "Agriculture"
+        },
+        {
+          "orgName": "Altria Group",
+          "total": 10000,
+          "industry": "Manufacturing"
+        },
+        {
+          "orgName": "American Crystal Sugar",
+          "total": 10000,
+          "industry": "Agriculture"
+        },
+        {
+          "orgName": "American Federation of State/Cnty/Munic Employees",
+          "total": 10000,
+          "industry": "Government"
+        },
+        {
+          "orgName": "American Federation of Teachers",
+          "total": 10000,
+          "industry": "Education"
+        },
+        {
+          "orgName": "American Peanut Shellers Association",
+          "total": 10000,
+          "industry": "Agriculture"
+        },
+        {
+          "orgName": "American Pistachio Growers",
+          "total": 10000,
+          "industry": "Agriculture"
+        }
+      ],
+      "isWatched": false
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "name": "Vivian Childs",
+      "party": "Republican",
+      "district": "GA-02",
+      "image": "https://i.imgur.com/vKDSwyD.jpg",
+      "contributors": [
+        {
+          "orgName": "Education System Management",
+          "total": 2000,
+          "industry": "Education"
+        },
+        {
+          "orgName": "BTV Systems",
+          "total": 500,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Fickling Co.",
+          "total": 500,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "ThinWell Clinic",
+          "total": 300,
+          "industry": "Medical"
+        },
+        {
+          "orgName": "Hattaway Farms",
+          "total": 250,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Herschend Enterprises",
+          "total": 250,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "United Airlines Holdings",
+          "total": 250,
+          "industry": "Travel"
+        },
+        {
+          "orgName": "Medsmarter",
+          "total": 122,
+          "industry": "Medical"
+        },
+        {
+          "orgName": "Crawford County, GA",
+          "total": 100,
+          "industry": "Government"
+        },
+        {
+          "orgName": "Kindred Hospice",
+          "total": 100,
+          "industry": "Medical"
+        }
+      ],
+      "isWatched": false
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "name": "Valbrun Almonord",
+      "party": "Democrat",
+      "district": "GA-03",
+      "image": "https://i.imgur.com/aXKtAmS.jpg",
+      "contributors": [
+        {
+          "orgName": "K Rowe Investments",
+          "total": 2800,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "American Federation of Government Employees",
+          "total": 2500,
+          "industry": "Government"
+        },
+        {
+          "orgName": "The Collective PAC",
+          "total": 2500,
+          "industry": "PAC"
+        },
+        {
+          "orgName": "Retail Vendor",
+          "total": 1600,
+          "industry": "Retail"
+        },
+        {
+          "orgName": "Committee to Elect Almonord",
+          "total": 1082,
+          "industry": "PAC"
+        },
+        {
+          "orgName": "Delta Air Lines",
+          "total": 650,
+          "industry": "Travel"
+        },
+        {
+          "orgName": "Sentinel Technology",
+          "total": 600,
+          "industry": "Technology"
+        },
+        {
+          "orgName": "San Mateo County, GA",
+          "total": 500,
+          "industry": "Government"
+        },
+        {
+          "orgName": "Teamsters Union",
+          "total": 500,
+          "industry": "Union"
+        },
+        {
+          "orgName": "US Air Force",
+          "total": 350,
+          "industry": "Defense"
+        }
+      ],
+      "isWatched": false
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "name": "Drew Ferguson",
+      "party": "Republican",
+      "district": "GA-03",
+      "image": "https://i.imgur.com/bPCbl55.jpg",
+      "contributors": [
+        {
+          "orgName": "Global Payments",
+          "total": 15800,
+          "industry": "Technology"
+        },
+        {
+          "orgName": "Georgia Crown Distributing",
+          "total": 15500,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Koch Industries",
+          "total": 13300,
+          "industry": "Manufacturing"
+        },
+        {
+          "orgName": "Coca-Cola",
+          "total": 13100,
+          "industry": "Manufacturing"
+        },
+        {
+          "orgName": "American Dental Association",
+          "total": 12851,
+          "industry": "Medical"
+        },
+        {
+          "orgName": "National Distributing Co",
+          "total": 12200,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "AL Grading Contractors",
+          "total": 11200,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Blackstone Group",
+          "total": 11200,
+          "industry": "Financial"
+        },
+        {
+          "orgName": "North Georgia Turf",
+          "total": 11200,
+          "industry": "Agriculture"
+        },
+        {
+          "orgName": "Schuster Enterprises",
+          "total": 11200,
+          "industry": "Local business/individual"
+        }
+      ],
+      "isWatched": false
     },
     {
       "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "name": "Antonio Hicks",
+      "party": "Democrat",
+      "district": "GA-04",
+      "image": "https://i.imgur.com/zM66fTD.jpg",
+      "contributors": [
+        {
+          "orgName": "Atlanta Technical College",
+          "total": 1000,
+          "industry": "Education"
+        },
+        {
+          "orgName": "Charter Communications",
+          "total": 133,
+          "industry": "Technology"
+        },
+        {
+          "orgName": "Sage",
+          "total": 100,
+          "industry": "Technology"
+        },
+        {
+          "orgName": "The Qt Co",
+          "total": 100,
+          "industry": "Misc"
+        },
+        {
+          "orgName": "Conduent Inc",
+          "total": 81,
+          "industry": "Technology"
+        },
+        {
+          "orgName": "Mercer University",
+          "total": 54,
+          "industry": "Education"
+        },
+        {
+          "orgName": "Adam F",
+          "total": 50,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Atc",
+          "total": 50,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Buxton Consulting",
+          "total": 50,
+          "industry": "Technology"
+        },
+        {
+          "orgName": "Safran Aerosystems",
+          "total": 50,
+          "industry": "Technology"
+        }
+      ],
+      "isWatched": false
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "name": "Johsira Cruz",
+      "party": "Republican",
+      "district": "GA-04",
+      "image": "https://i.imgur.com/9lhmn3S.jpg",
+      "contributors": [
+        {
+          "orgName": "Meridian Group",
+          "total": 6083,
+          "industry": "Financial"
+        },
+        {
+          "orgName": "Momentsinprint",
+          "total": 1530,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Advise LLC",
+          "total": 1500,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "PR Realty",
+          "total": 1000,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Raci",
+          "total": 300,
+          "industry": "Misc"
+        }
+      ],
+      "isWatched": false
+    },
+    {
+      "id": 9,
+      "name": "Demondria Jefferson",
+      "party": "Libertarian",
+      "district": "GA-05",
+      "image": "https://i.imgur.com/IUfVetq.jpg",
+      "contributors": [
+      ],
+      "isWatched": false
+    },
+    {
+      "id": 10,
+      "name": "Chase Oliver",
+      "party": "Libertarian",
+      "district": "GA-05",
+      "image": "https://i.imgur.com/qE6YP3X.jpg",
+      "contributors": [
+        {
+          "orgName": "Atkins",
+          "total": 650,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Navaid Equity Partners LP",
+          "total": 500,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Platte Institute for Economic Research",
+          "total": 250,
+          "industry": "Financial"
+        }
+      ],
+      "isWatched": false
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "commenterName": "Zach",
+      "comment": "Test comment on first politician",
+      "politicianId": 1
     }
   ]
 }

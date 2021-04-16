@@ -11,7 +11,7 @@
   }], 
   "upcomingEvents": [ {
     "id": 0, 
-    "teamId": 0,
+    "teamsId": 0,
     "userId": 0,
     "date": "string", 
     "time": "string",

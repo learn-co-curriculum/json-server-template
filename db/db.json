@@ -118,7 +118,7 @@
           "industry": "Manufacturing"
         }
       ],
-      "isWatched": false
+      "isWatched": true
     },
     {
       "id": 3,
@@ -238,7 +238,7 @@
           "industry": "Medical"
         }
       ],
-      "isWatched": false
+      "isWatched": true
     },
     {
       "id": 5,
@@ -298,7 +298,7 @@
           "industry": "Defense"
         }
       ],
-      "isWatched": false
+      "isWatched": true
     },
     {
       "id": 6,
@@ -461,8 +461,7 @@
       "party": "Libertarian",
       "district": "GA-05",
       "image": "https://i.imgur.com/IUfVetq.jpg",
-      "contributors": [
-      ],
+      "contributors": [],
       "isWatched": false
     },
     {

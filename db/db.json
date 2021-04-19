@@ -30,12 +30,12 @@
     },
     {
       "teamsId": 0,
-      "title": "Bar Night",
+      "title": "Guys Night",
       "location": "NYC",
-      "opponent": "drinks on me",
-      "date": "4/2",
-      "time": "8PM",
-      "id": 1
+      "opponent": "guys night?",
+      "date": "4/19",
+      "time": "11PM",
+      "id": 2
     }
   ]
 }

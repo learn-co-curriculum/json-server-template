@@ -15,6 +15,22 @@
         }
       ],
       "stretch": "chat area: [ ]"
+    },
+    {
+      "id": 1,
+      "sportsDbId": "134921",
+      "name": "New York Jets",
+      "division": "AFL East",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/hz92od1607953467.png",
+      "yearFounded": "1959",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Cleveland Browns @ New York Jets",
+          "score": "23-16",
+          "highlight": "https://www.youtube.com/watch?v=fPrAu9neHio"
+        }
+      ],
+      "stretch": "chat area: [ ]"
     }
   ],
   "upcomingEvents": [
@@ -25,8 +41,7 @@
       "date": "string",
       "time": "string",
       "opponent": "string",
-      "location": "string",
-      "comments": []
+      "location": "string"
     },
     {
       "teamsId": 0,
@@ -36,6 +51,47 @@
       "date": "4/19",
       "time": "11PM",
       "id": 2
+    },
+    {
+      "teamsId": 1,
+      "title": "Superbowl Weekend",
+      "location": "NYC",
+      "opponent": "BYOB",
+      "date": "4/20",
+      "time": "8PM",
+      "id": 3
+    }
+  ],
+  "chatbox": [
+    {
+      "id": 0,
+      "teamsId": 0,
+      "comment": "string"
+    },
+    {
+      "teamsId": "0",
+      "comment": "you guys going to guys night?",
+      "id": 1
+    },
+    {
+      "teamsId": "0",
+      "comment": "yeah man can't wait",
+      "id": 2
+    },
+    {
+      "teamsId": "1",
+      "comment": "anyone here?",
+      "id": 3
+    },
+    {
+      "teamsId": "1",
+      "comment": "yeah man I'm here",
+      "id": 4
+    },
+    {
+      "teamsId": "1",
+      "comment": "sweet!",
+      "id": 5
     }
   ]
 }

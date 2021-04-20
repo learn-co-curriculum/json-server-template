@@ -496,6 +496,36 @@
       "commenterName": "Zach",
       "comment": "Test comment on first politician",
       "politicianId": 1
+    },
+    {
+      "commenterName": "zach again",
+      "comment": "this comment should post to server and dom",
+      "politicianId": 1,
+      "id": 2
+    },
+    {
+      "commenterName": "zach",
+      "comment": "test post on buddy carter",
+      "politicianId": 2,
+      "id": 3
+    },
+    {
+      "commenterName": "test",
+      "comment": "test test ",
+      "politicianId": 1,
+      "id": 4
+    },
+    {
+      "commenterName": "zach",
+      "comment": "now this should stay",
+      "politicianId": 1,
+      "id": 5
+    },
+    {
+      "commenterName": "another test",
+      "comment": "test test",
+      "politicianId": 2,
+      "id": 6
     }
   ]
 }

@@ -118,7 +118,7 @@
           "industry": "Manufacturing"
         }
       ],
-      "isWatched": true
+      "isWatched": false
     },
     {
       "id": 3,
@@ -418,7 +418,7 @@
           "industry": "Technology"
         }
       ],
-      "isWatched": true
+      "isWatched": false
     },
     {
       "id": 8,
@@ -538,6 +538,18 @@
       "comment": "antonio rocks",
       "politicianId": 7,
       "id": 8
+    },
+    {
+      "commenterName": "zach",
+      "comment": "new test comment",
+      "politicianId": 2,
+      "id": 9
+    },
+    {
+      "commenterName": "new test comment",
+      "comment": "asdfasdfadsf",
+      "politicianId": 10,
+      "id": 10
     }
   ]
 }

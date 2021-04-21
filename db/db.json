@@ -58,7 +58,7 @@
           "industry": "Education"
         }
       ],
-      "isWatched": false
+      "isWatched": true
     },
     {
       "id": 2,
@@ -298,7 +298,7 @@
           "industry": "Defense"
         }
       ],
-      "isWatched": true
+      "isWatched": false
     },
     {
       "id": 6,
@@ -358,7 +358,7 @@
           "industry": "Local business/individual"
         }
       ],
-      "isWatched": true
+      "isWatched": false
     },
     {
       "id": 7,
@@ -418,7 +418,7 @@
           "industry": "Technology"
         }
       ],
-      "isWatched": false
+      "isWatched": true
     },
     {
       "id": 8,
@@ -498,40 +498,16 @@
       "politicianId": 1
     },
     {
-      "commenterName": "zach again",
-      "comment": "this comment should post to server and dom",
-      "politicianId": 1,
-      "id": 2
-    },
-    {
       "commenterName": "zach",
       "comment": "test post on buddy carter",
       "politicianId": 2,
       "id": 3
     },
     {
-      "commenterName": "test",
-      "comment": "test test ",
-      "politicianId": 1,
-      "id": 4
-    },
-    {
-      "commenterName": "zach",
-      "comment": "now this should stay",
-      "politicianId": 1,
-      "id": 5
-    },
-    {
       "commenterName": "another test",
       "comment": "test test",
       "politicianId": 2,
       "id": 6
-    },
-    {
-      "commenterName": "sdfjklgadfs",
-      "comment": "asdfasdf",
-      "politicianId": 1,
-      "id": 7
     },
     {
       "commenterName": "zach ",

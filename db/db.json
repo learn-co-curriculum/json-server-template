@@ -238,7 +238,7 @@
           "industry": "Medical"
         }
       ],
-      "isWatched": true
+      "isWatched": false
     },
     {
       "id": 5,
@@ -358,7 +358,7 @@
           "industry": "Local business/individual"
         }
       ],
-      "isWatched": false
+      "isWatched": true
     },
     {
       "id": 7,
@@ -418,7 +418,7 @@
           "industry": "Technology"
         }
       ],
-      "isWatched": false
+      "isWatched": true
     },
     {
       "id": 8,
@@ -526,6 +526,18 @@
       "comment": "test test",
       "politicianId": 2,
       "id": 6
+    },
+    {
+      "commenterName": "sdfjklgadfs",
+      "comment": "asdfasdf",
+      "politicianId": 1,
+      "id": 7
+    },
+    {
+      "commenterName": "zach ",
+      "comment": "antonio rocks",
+      "politicianId": 7,
+      "id": 8
     }
   ]
 }

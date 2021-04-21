@@ -1,83 +1,1309 @@
 {
   "teams": [
     {
-      "id": 0,
       "sportsDbId": "134946",
       "name": "Arizona Cardinals",
-      "division": "string",
       "logo": "https://www.thesportsdb.com/images/media/team/badge/xvuwtw1420646838.png",
       "yearFounded": "1898",
       "lastFiveGameScores": [
         {
-          "opponent": "Arizona Cardinals vs San Francisco 49ers",
-          "score": "12-20",
+          "opponent": "San Francisco 49ers @ Arizona Cardinals",
+          "homeScore": "12",
+          "awayScore": "20",
+          "highlight": "https://www.youtube.com/watch?v=i1WzShZBpBg"
+        },
+        {
+          "opponent": "Philadelphia Eagles @ Arizona Cardinals",
+          "homeScore": "33",
+          "awayScore": "26",
           "highlight": "https://www.youtube.com/watch?v=MNXXo5w0DFU"
+        },
+        {
+          "opponent": "Los Angeles Rams @ Arizona Cardinals",
+          "homeScore": "28",
+          "awayScore": "38",
+          "highlight": "https://www.youtube.com/watch?v=VUn9qdWJfcM"
+        },
+        {
+          "opponent": "Buffalo Bills @ Arizona Cardinals",
+          "homeScore": "32",
+          "awayScore": "30",
+          "highlight": "https://www.youtube.com/watch?v=VQsemjPaCjU"
+        },
+        {
+          "opponent": "Miami Dolphins @ Arizona Cardinals",
+          "homeScore": "31",
+          "awayScore": "34",
+          "highlight": "https://www.youtube.com/watch?v=HknlyJVc7AQ"
         }
       ],
-      "stretch": "chat area: [ ]"
+      "stretch": "chat area: [ ]",
+      "id": 1
     },
     {
-      "id": 1,
+      "sportsDbId": "134942",
+      "name": "Atlanta Falcons",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/rrpvpr1420658174.png",
+      "yearFounded": "1965",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Tampa Bay Buccaneers @ Atlanta Falcons",
+          "homeScore": "27",
+          "awayScore": "31",
+          "highlight": "https://www.youtube.com/watch?v=nkzys5ARecw"
+        },
+        {
+          "opponent": "New Orleans Saints @ Atlanta Falcons",
+          "homeScore": "16",
+          "awayScore": "21",
+          "highlight": "https://www.youtube.com/watch?v=djtwh_-f7V8"
+        },
+        {
+          "opponent": "Las Vegas Raiders @ Atlanta Falcons",
+          "homeScore": "43",
+          "awayScore": "6",
+          "highlight": "https://www.youtube.com/watch?v=ULFf5HwwsYg"
+        },
+        {
+          "opponent": "Denver Broncos @ Atlanta Falcons",
+          "homeScore": "34",
+          "awayScore": "27",
+          "highlight": "https://www.youtube.com/watch?v=c_GbjNJ0IFc"
+        },
+        {
+          "opponent": "Detroit Lions @ Atlanta Falcons",
+          "homeScore": "22",
+          "awayScore": "23",
+          "highlight": "https://www.youtube.com/watch?v=oxm7T4h-IOs"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 2
+    },
+    {
+      "sportsDbId": "134922",
+      "name": "Baltimore Ravens",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
+      "yearFounded": "1996",
+      "lastFiveGameScores": [
+        {
+          "opponent": "New York Giants @ Baltimore Ravens",
+          "homeScore": "27",
+          "awayScore": "13",
+          "highlight": "https://www.youtube.com/watch?v=vj_dllJONi8"
+        },
+        {
+          "opponent": "Jacksonville Jaguars @ Baltimore Ravens",
+          "homeScore": "40",
+          "awayScore": "14",
+          "highlight": "https://www.youtube.com/watch?v=0WHcj1Q3RFI"
+        },
+        {
+          "opponent": "Dallas Cowboys @ Baltimore Ravens",
+          "homeScore": "34",
+          "awayScore": "17",
+          "highlight": "https://www.youtube.com/watch?v=H1QWCg9A-p4"
+        },
+        {
+          "opponent": "Tennessee Titans @ Baltimore Ravens",
+          "homeScore": "24",
+          "awayScore": "30",
+          "highlight": "https://www.youtube.com/watch?v=MIJTWPV8sbQ"
+        },
+        {
+          "opponent": "Pittsburgh Steelers @ Baltimore Ravens",
+          "homeScore": "24",
+          "awayScore": "28",
+          "highlight": "https://www.youtube.com/watch?v=8-kZnafY2B8"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 3
+    },
+    {
+      "sportsDbId": "134918",
+      "name": "Buffalo Bills",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/6pb37b1515849026.png",
+      "yearFounded": "1959",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Baltimore Ravens @ Buffalo Bills",
+          "homeScore": "17",
+          "awayScore": "3",
+          "highlight": "https://www.youtube.com/watch?v=jdw2LwLAMas"
+        },
+        {
+          "opponent": "Indianapolis Colts @ Buffalo Bills",
+          "homeScore": "27",
+          "awayScore": "24",
+          "highlight": "https://www.youtube.com/watch?v=zHpKu-LFD64"
+        },
+        {
+          "opponent": "Miami Dolphins @ Buffalo Bills",
+          "homeScore": "56",
+          "awayScore": "26",
+          "highlight": "https://www.youtube.com/watch?v=9szcmHGXdJk"
+        },
+        {
+          "opponent": "Pittsburgh Steelers @ Buffalo Bills",
+          "homeScore": "26",
+          "awayScore": "15",
+          "highlight": "https://www.youtube.com/watch?v=S0eIKWFgIT0"
+        },
+        {
+          "opponent": "Los Angeles Chargers @ Buffalo Bills",
+          "homeScore": "27",
+          "awayScore": "17",
+          "highlight": "https://www.youtube.com/watch?v=lFZo7oIMlsw"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 4
+    },
+    {
+      "sportsDbId": "134943",
+      "name": "Carolina Panthers",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/xxyvvy1420940478.png",
+      "yearFounded": "1995",
+      "lastFiveGameScores": [
+        {
+          "opponent": "New Orleans Saints @ Carolina Panthers",
+          "homeScore": "7",
+          "awayScore": "33",
+          "highlight": "https://www.youtube.com/watch?v=2XchmYZUdMc"
+        },
+        {
+          "opponent": "Denver Broncos @ Carolina Panthers",
+          "homeScore": "27",
+          "awayScore": "32",
+          "highlight": "https://www.youtube.com/watch?v=VnFE5w_ZKcg"
+        },
+        {
+          "opponent": "Detroit Lions @ Carolina Panthers",
+          "homeScore": "20",
+          "awayScore": "0",
+          "highlight": "https://www.youtube.com/watch?v=5dkdACkvGS4"
+        },
+        {
+          "opponent": "Tampa Bay Buccaneers @ Carolina Panthers",
+          "homeScore": "23",
+          "awayScore": "46",
+          "highlight": "https://www.youtube.com/watch?v=4YuCabFqcP8"
+        },
+        {
+          "opponent": "Atlanta Falcons @ Carolina Panthers",
+          "homeScore": "17",
+          "awayScore": "25",
+          "highlight": "https://www.youtube.com/watch?v=GB_EEiVuptM"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 5
+    },
+    {
+      "sportsDbId": "134938",
+      "name": "Chicago Bears",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/uwtwtv1420941123.png",
+      "yearFounded": "1919",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Green Bay Packers @ Chicago Bears",
+          "homeScore": "16",
+          "awayScore": "35",
+          "highlight": "https://www.youtube.com/watch?v=a9w5PBE-oRQ"
+        },
+        {
+          "opponent": "Houston Texans @ Chicago Bears",
+          "homeScore": "36",
+          "awayScore": "7",
+          "highlight": "https://www.youtube.com/watch?v=V67Ok-p9ngY"
+        },
+        {
+          "opponent": "Detroit Lions @ Chicago Bears",
+          "homeScore": "30",
+          "awayScore": "34",
+          "highlight": "https://www.youtube.com/watch?v=ZYsSxuGsasI"
+        },
+        {
+          "opponent": "Minnesota Vikings @ Chicago Bears",
+          "homeScore": "13",
+          "awayScore": "19",
+          "highlight": "https://www.youtube.com/watch?v=IHBxAsSEjBo"
+        },
+        {
+          "opponent": "New Orleans Saints @ Chicago Bears",
+          "homeScore": "23",
+          "awayScore": "26",
+          "highlight": "https://www.youtube.com/watch?v=BXN7Pel4A2A"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 6
+    },
+    {
+      "sportsDbId": "134923",
+      "name": "Cincinnati Bengals",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/qqtwwv1420941670.png",
+      "yearFounded": "1967",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Baltimore Ravens @ Cincinnati Bengals",
+          "homeScore": "3",
+          "awayScore": "38",
+          "highlight": "https://www.youtube.com/watch?v=JOQIVWqeJHA"
+        },
+        {
+          "opponent": "Pittsburgh Steelers @ Cincinnati Bengals",
+          "homeScore": "27",
+          "awayScore": "17",
+          "highlight": "https://www.youtube.com/watch?v=oQGrEvW4dDo"
+        },
+        {
+          "opponent": "Dallas Cowboys @ Cincinnati Bengals",
+          "homeScore": "7",
+          "awayScore": "30",
+          "highlight": "https://www.youtube.com/watch?v=eNr7RWj66io"
+        },
+        {
+          "opponent": "New York Giants @ Cincinnati Bengals",
+          "homeScore": "17",
+          "awayScore": "19",
+          "highlight": "https://www.youtube.com/watch?v=TFi27HEg3mA"
+        },
+        {
+          "opponent": "Tennessee Titans @ Cincinnati Bengals",
+          "homeScore": "31",
+          "awayScore": "20",
+          "highlight": "https://www.youtube.com/watch?v=kAW2ZSTdtQ0"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 7
+    },
+    {
+      "sportsDbId": "134924",
+      "name": "Cleveland Browns",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/squvxy1420942389.png",
+      "yearFounded": "1946",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Pittsburgh Steelers @ Cleveland Browns",
+          "homeScore": "24",
+          "awayScore": "22",
+          "highlight": "https://www.youtube.com/watch?v=Tb8r-ZySZ6c"
+        },
+        {
+          "opponent": "Baltimore Ravens @ Cleveland Browns",
+          "homeScore": "42",
+          "awayScore": "47",
+          "highlight": "https://www.youtube.com/watch?v=3xYOB7kSCIk"
+        },
+        {
+          "opponent": "Philadelphia Eagles @ Cleveland Browns",
+          "homeScore": "22",
+          "awayScore": "17",
+          "highlight": "https://www.youtube.com/watch?v=MdPu85u0oZc"
+        },
+        {
+          "opponent": "Houston Texans @ Cleveland Browns",
+          "homeScore": "10",
+          "awayScore": "7",
+          "highlight": "https://www.youtube.com/watch?v=UriS35_PrFM"
+        },
+        {
+          "opponent": "Las Vegas Raiders @ Cleveland Browns",
+          "homeScore": "6",
+          "awayScore": "16",
+          "highlight": "https://www.youtube.com/watch?v=roYn3NhNEJI"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 8
+    },
+    {
+      "sportsDbId": "134934",
+      "name": "Dallas Cowboys",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/wrxssu1450018209.png",
+      "yearFounded": "1960",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Philadelphia Eagles @ Dallas Cowboys",
+          "homeScore": "37",
+          "awayScore": "17",
+          "highlight": "https://www.youtube.com/watch?v=O1vCXnyOJD0"
+        },
+        {
+          "opponent": "San Francisco 49ers @ Dallas Cowboys",
+          "homeScore": "41",
+          "awayScore": "33",
+          "highlight": "https://www.youtube.com/watch?v=PUmTnFe6Tis"
+        },
+        {
+          "opponent": "Washington @ Dallas Cowboys",
+          "homeScore": "16",
+          "awayScore": "41",
+          "highlight": "https://www.youtube.com/watch?v=ZpJ61jmIi60"
+        },
+        {
+          "opponent": "Pittsburgh Steelers @ Dallas Cowboys",
+          "homeScore": "19",
+          "awayScore": "24",
+          "highlight": "https://www.youtube.com/watch?v=HrFL4gDa9KU"
+        },
+        {
+          "opponent": "Arizona Cardinals @ Dallas Cowboys",
+          "homeScore": "10",
+          "awayScore": "38",
+          "highlight": "https://www.youtube.com/watch?v=fOp-Pl82Z2A"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 9
+    },
+    {
+      "sportsDbId": "134930",
+      "name": "Denver Broncos",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/upsspx1421635647.png",
+      "yearFounded": "1960",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Las Vegas Raiders @ Denver Broncos",
+          "homeScore": "31",
+          "awayScore": "32",
+          "highlight": "https://www.youtube.com/watch?v=MXHOJDWqe7Y"
+        },
+        {
+          "opponent": "Buffalo Bills @ Denver Broncos",
+          "homeScore": "19",
+          "awayScore": "48",
+          "highlight": "https://www.youtube.com/watch?v=JzveW8IUKcU"
+        },
+        {
+          "opponent": "New Orleans Saints @ Denver Broncos",
+          "homeScore": "3",
+          "awayScore": "31",
+          "highlight": "https://www.youtube.com/watch?v=LQYKNbuWfq0"
+        },
+        {
+          "opponent": "Miami Dolphins @ Denver Broncos",
+          "homeScore": "20",
+          "awayScore": "13",
+          "highlight": "https://www.youtube.com/watch?v=_TEIPlnxMdw"
+        },
+        {
+          "opponent": "Los Angeles Chargers @ Denver Broncos",
+          "homeScore": "31",
+          "awayScore": "30",
+          "highlight": "https://www.youtube.com/watch?v=BIq3bf1OcjU"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 10
+    },
+    {
+      "sportsDbId": "134939",
+      "name": "Detroit Lions",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png",
+      "yearFounded": "1930",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Minnesota Vikings @ Detroit Lions",
+          "homeScore": "35",
+          "awayScore": "37",
+          "highlight": "https://www.youtube.com/watch?v=-u4-jUjRMF0"
+        },
+        {
+          "opponent": "Tampa Bay Buccaneers @ Detroit Lions",
+          "homeScore": "7",
+          "awayScore": "47",
+          "highlight": "https://www.youtube.com/watch?v=CSNAHkBb0FY"
+        },
+        {
+          "opponent": "Green Bay Packers @ Detroit Lions",
+          "homeScore": "24",
+          "awayScore": "31",
+          "highlight": "https://www.youtube.com/watch?v=pi4I06YVyNo"
+        },
+        {
+          "opponent": "Houston Texans @ Detroit Lions",
+          "homeScore": "25",
+          "awayScore": "41",
+          "highlight": "https://www.youtube.com/watch?v=ZgRruN2h3Ak"
+        },
+        {
+          "opponent": "Washington @ Detroit Lions",
+          "homeScore": "30",
+          "awayScore": "27",
+          "highlight": "https://www.youtube.com/watch?v=UY9ixq9uG_k"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 11
+    },
+    {
+      "sportsDbId": "134940",
+      "name": "Green Bay Packers",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/rqpwtr1421434717.png",
+      "yearFounded": "1919",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Tampa Bay Buccaneers @ Green Bay Packers",
+          "homeScore": "26",
+          "awayScore": "31",
+          "highlight": "https://www.youtube.com/watch?v=Gt6NsqMbByo"
+        },
+        {
+          "opponent": "Los Angeles Rams @ Green Bay Packers",
+          "homeScore": "32",
+          "awayScore": "18",
+          "highlight": "https://www.youtube.com/watch?v=mp0c8xkCacM"
+        },
+        {
+          "opponent": "Tennessee Titans @ Green Bay Packers",
+          "homeScore": "40",
+          "awayScore": "14",
+          "highlight": "https://www.youtube.com/watch?v=0C7_1eT29wY"
+        },
+        {
+          "opponent": "Carolina Panthers @ Green Bay Packers",
+          "homeScore": "24",
+          "awayScore": "16",
+          "highlight": "https://www.youtube.com/watch?v=O71Yem15xYM"
+        },
+        {
+          "opponent": "Philadelphia Eagles @ Green Bay Packers",
+          "homeScore": "30",
+          "awayScore": "16",
+          "highlight": "https://www.youtube.com/watch?v=uxnaTgtrOmU"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 12
+    },
+    {
+      "sportsDbId": "134926",
+      "name": "Houston Texans",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/wqyryy1421436627.png",
+      "yearFounded": "2002",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Tennessee Titans @ Houston Texans",
+          "homeScore": "38",
+          "awayScore": "41",
+          "highlight": "https://www.youtube.com/watch?v=QWk-Wu6Dxq8"
+        },
+        {
+          "opponent": "Cincinnati Bengals @ Houston Texans",
+          "homeScore": "31",
+          "awayScore": "37",
+          "highlight": "https://www.youtube.com/watch?v=qPOGBH55D78"
+        },
+        {
+          "opponent": "Indianapolis Colts @ Houston Texans",
+          "homeScore": "20",
+          "awayScore": "26",
+          "highlight": "https://www.youtube.com/watch?v=RbAAn7-DtzY"
+        },
+        {
+          "opponent": "New England Patriots @ Houston Texans",
+          "homeScore": "27",
+          "awayScore": "20",
+          "highlight": "https://www.youtube.com/watch?v=J9UqUAXLDjc"
+        },
+        {
+          "opponent": "Green Bay Packers @ Houston Texans",
+          "homeScore": "20",
+          "awayScore": "35",
+          "highlight": "https://www.youtube.com/watch?v=PWJmLMoy3zQ"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 13
+    },
+    {
+      "sportsDbId": "134927",
+      "name": "Indianapolis Colts",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/wqqvpx1421434058.png",
+      "yearFounded": "1953",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Jacksonville Jaguars @ Indianapolis Colts",
+          "homeScore": "28",
+          "awayScore": "14",
+          "highlight": "https://www.youtube.com/watch?v=EnQVM9QRNZQ"
+        },
+        {
+          "opponent": "Houston Texans @ Indianapolis Colts",
+          "homeScore": "27",
+          "awayScore": "20",
+          "highlight": "https://www.youtube.com/watch?v=yWWnqN-upRA"
+        },
+        {
+          "opponent": "Tennessee Titans @ Indianapolis Colts",
+          "homeScore": "26",
+          "awayScore": "45",
+          "highlight": "https://www.youtube.com/watch?v=a4F3jvnga0U"
+        },
+        {
+          "opponent": "Green Bay Packers @ Indianapolis Colts",
+          "homeScore": "34",
+          "awayScore": "31",
+          "highlight": "https://www.youtube.com/watch?v=Uv6J8DBCAYM"
+        },
+        {
+          "opponent": "Baltimore Ravens @ Indianapolis Colts",
+          "homeScore": "10",
+          "awayScore": "24",
+          "highlight": "https://www.youtube.com/watch?v=xr8HwJW2bps"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 14
+    },
+    {
+      "sportsDbId": "134928",
+      "name": "Jacksonville Jaguars",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png",
+      "yearFounded": "1993",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Chicago Bears @ Jacksonville Jaguars",
+          "homeScore": "17",
+          "awayScore": "41",
+          "highlight": "https://www.youtube.com/watch?v=vRtlFaeHqps"
+        },
+        {
+          "opponent": "Tennessee Titans @ Jacksonville Jaguars",
+          "homeScore": "10",
+          "awayScore": "31",
+          "highlight": "https://www.youtube.com/watch?v=2NV-j4RVEXQ"
+        },
+        {
+          "opponent": "Cleveland Browns @ Jacksonville Jaguars",
+          "homeScore": "25",
+          "awayScore": "27",
+          "highlight": "https://www.youtube.com/watch?v=jNanuzPpdqU"
+        },
+        {
+          "opponent": "Pittsburgh Steelers @ Jacksonville Jaguars",
+          "homeScore": "3",
+          "awayScore": "27",
+          "highlight": "https://www.youtube.com/watch?v=5iYfuWHQtWk"
+        },
+        {
+          "opponent": "Houston Texans @ Jacksonville Jaguars",
+          "homeScore": "25",
+          "awayScore": "27",
+          "highlight": "https://www.youtube.com/watch?v=7VqrRatSBpk"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 15
+    },
+    {
+      "sportsDbId": "134931",
+      "name": "Kansas City Chiefs",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/936t161515847222.png",
+      "yearFounded": "1960",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Buffalo Bills @ Kansas City Chiefs",
+          "homeScore": "38",
+          "awayScore": "24",
+          "highlight": "https://www.youtube.com/watch?v=_FojDFDN99U"
+        },
+        {
+          "opponent": "Cleveland Browns @ Kansas City Chiefs",
+          "homeScore": "22",
+          "awayScore": "17",
+          "highlight": "https://www.youtube.com/watch?v=c5CPyLlSWQ8"
+        },
+        {
+          "opponent": "Los Angeles Chargers @ Kansas City Chiefs",
+          "homeScore": "21",
+          "awayScore": "38",
+          "highlight": "https://www.youtube.com/watch?v=x-pyIioJYbI"
+        },
+        {
+          "opponent": "Atlanta Falcons @ Kansas City Chiefs",
+          "homeScore": "17",
+          "awayScore": "14",
+          "highlight": "https://www.youtube.com/watch?v=Ong86hFuAnM"
+        },
+        {
+          "opponent": "Denver Broncos @ Kansas City Chiefs",
+          "homeScore": "22",
+          "awayScore": "16",
+          "highlight": "https://www.youtube.com/watch?v=cqIYOcrum7s"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 16
+    },
+    {
+      "sportsDbId": "134932",
+      "name": "Las Vegas Raiders",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/xqusqy1421724291.png",
+      "yearFounded": "1960",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Miami Dolphins @ Las Vegas Raiders",
+          "homeScore": "25",
+          "awayScore": "26",
+          "highlight": "https://www.youtube.com/watch?v=EpW3nmig7Oo"
+        },
+        {
+          "opponent": "Los Angeles Chargers @ Las Vegas Raiders",
+          "homeScore": "27",
+          "awayScore": "30",
+          "highlight": "https://www.youtube.com/watch?v=yQRVin-cQxc"
+        },
+        {
+          "opponent": "Indianapolis Colts @ Las Vegas Raiders",
+          "homeScore": "27",
+          "awayScore": "44",
+          "highlight": "https://www.youtube.com/watch?v=7iGqrcUGDSc"
+        },
+        {
+          "opponent": "Kansas City Chiefs @ Las Vegas Raiders",
+          "homeScore": "31",
+          "awayScore": "35",
+          "highlight": "https://www.youtube.com/watch?v=3xccQ_kxVhc"
+        },
+        {
+          "opponent": "Denver Broncos @ Las Vegas Raiders",
+          "homeScore": "37",
+          "awayScore": "12",
+          "highlight": "https://www.youtube.com/watch?v=-_UlDcp_zlE"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 17
+    },
+    {
+      "sportsDbId": "135908",
+      "name": "Los Angeles Chargers",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/wbhu3a1548320628.png",
+      "yearFounded": "1960",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Denver Broncos @ Los Angeles Chargers",
+          "homeScore": "19",
+          "awayScore": "16",
+          "highlight": "https://www.youtube.com/watch?v=0MTMMRcrtAQ"
+        },
+        {
+          "opponent": "Atlanta Falcons @ Los Angeles Chargers",
+          "homeScore": "20",
+          "awayScore": "17",
+          "highlight": "https://www.youtube.com/watch?v=QJr-70PbIpg"
+        },
+        {
+          "opponent": "New England Patriots @ Los Angeles Chargers",
+          "homeScore": "0",
+          "awayScore": "45",
+          "highlight": "https://www.youtube.com/watch?v=6EsXyhDrpf8"
+        },
+        {
+          "opponent": "New York Jets @ Los Angeles Chargers",
+          "homeScore": "34",
+          "awayScore": "28",
+          "highlight": "https://www.youtube.com/watch?v=kGF6RfpKCyk"
+        },
+        {
+          "opponent": "Las Vegas Raiders @ Los Angeles Chargers",
+          "homeScore": "26",
+          "awayScore": "31",
+          "highlight": "https://www.youtube.com/watch?v=JHSw_twwzlo"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 18
+    },
+    {
+      "sportsDbId": "135907",
+      "name": "Los Angeles Rams",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/8e8v4i1599764614.png",
+      "yearFounded": "1936",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Arizona Cardinals @ Los Angeles Rams",
+          "homeScore": "18",
+          "awayScore": "7",
+          "highlight": "https://www.youtube.com/watch?v=nW41nNoGWsg"
+        },
+        {
+          "opponent": "New York Jets @ Los Angeles Rams",
+          "homeScore": "20",
+          "awayScore": "23",
+          "highlight": "https://www.youtube.com/watch?v=HIW6bqrDbBg"
+        },
+        {
+          "opponent": "New England Patriots @ Los Angeles Rams",
+          "homeScore": "24",
+          "awayScore": "3",
+          "highlight": "https://www.youtube.com/watch?v=uRWqmdWindA"
+        },
+        {
+          "opponent": "San Francisco 49ers @ Los Angeles Rams",
+          "homeScore": "20",
+          "awayScore": "23",
+          "highlight": "https://www.youtube.com/watch?v=pr1c4wClXkI"
+        },
+        {
+          "opponent": "Seattle Seahawks @ Los Angeles Rams",
+          "homeScore": "23",
+          "awayScore": "16",
+          "highlight": "https://www.youtube.com/watch?v=6KRAZuq-1uU"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 19
+    },
+    {
+      "sportsDbId": "134919",
+      "name": "Miami Dolphins",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/trtusv1421435081.png",
+      "yearFounded": "1966",
+      "lastFiveGameScores": [
+        {
+          "opponent": "New England Patriots @ Miami Dolphins",
+          "homeScore": "22",
+          "awayScore": "12",
+          "highlight": "https://www.youtube.com/watch?v=MxplvsyTowc"
+        },
+        {
+          "opponent": "Kansas City Chiefs @ Miami Dolphins",
+          "homeScore": "27",
+          "awayScore": "33",
+          "highlight": "https://www.youtube.com/watch?v=g_PZu0IAjbo"
+        },
+        {
+          "opponent": "Cincinnati Bengals @ Miami Dolphins",
+          "homeScore": "19",
+          "awayScore": "7",
+          "highlight": "https://www.youtube.com/watch?v=9lyNile-w1U"
+        },
+        {
+          "opponent": "New York Jets @ Miami Dolphins",
+          "homeScore": "20",
+          "awayScore": "3",
+          "highlight": "https://www.youtube.com/watch?v=mx1oLtRiDAQ"
+        },
+        {
+          "opponent": "Los Angeles Chargers @ Miami Dolphins",
+          "homeScore": "29",
+          "awayScore": "21",
+          "highlight": "https://www.youtube.com/watch?v=iUUdQcaps00"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 20
+    },
+    {
+      "sportsDbId": "134941",
+      "name": "Minnesota Vikings",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/qstqqr1421609163.png",
+      "yearFounded": "1961",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Chicago Bears @ Minnesota Vikings",
+          "homeScore": "27",
+          "awayScore": "33",
+          "highlight": "https://www.youtube.com/watch?v=saWXy4a-FQQ"
+        },
+        {
+          "opponent": "Jacksonville Jaguars @ Minnesota Vikings",
+          "homeScore": "27",
+          "awayScore": "24",
+          "highlight": "https://www.youtube.com/watch?v=lYCC2ieqPNU"
+        },
+        {
+          "opponent": "Carolina Panthers @ Minnesota Vikings",
+          "homeScore": "28",
+          "awayScore": "27",
+          "highlight": "https://www.youtube.com/watch?v=cd1GQklvxrw"
+        },
+        {
+          "opponent": "Dallas Cowboys @ Minnesota Vikings",
+          "homeScore": "28",
+          "awayScore": "31",
+          "highlight": "https://www.youtube.com/watch?v=Kk_jE_rSho0"
+        },
+        {
+          "opponent": "Detroit Lions @ Minnesota Vikings",
+          "homeScore": "34",
+          "awayScore": "20",
+          "highlight": "https://www.youtube.com/watch?v=M_IhAqjDuz4"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 21
+    },
+    {
+      "sportsDbId": "134920",
+      "name": "New England Patriots",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png",
+      "yearFounded": "1959",
+      "lastFiveGameScores": [
+        {
+          "opponent": "New York Jets @ New England Patriots",
+          "homeScore": "28",
+          "awayScore": "14",
+          "highlight": "https://www.youtube.com/watch?v=5kyc-1Aw75s"
+        },
+        {
+          "opponent": "Buffalo Bills @ New England Patriots",
+          "homeScore": "9",
+          "awayScore": "38",
+          "highlight": "https://www.youtube.com/watch?v=zki-HDVDhc8"
+        },
+        {
+          "opponent": "Arizona Cardinals @ New England Patriots",
+          "homeScore": "20",
+          "awayScore": "17",
+          "highlight": "https://www.youtube.com/watch?v=KLgHkDBKZRY"
+        },
+        {
+          "opponent": "Baltimore Ravens @ New England Patriots",
+          "homeScore": "23",
+          "awayScore": "17",
+          "highlight": "https://www.youtube.com/watch?v=jlBCJ6CS5hE"
+        },
+        {
+          "opponent": "San Francisco 49ers @ New England Patriots",
+          "homeScore": "6",
+          "awayScore": "33",
+          "highlight": "https://www.youtube.com/watch?v=kq2hxifx3nc"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 22
+    },
+    {
+      "sportsDbId": "134944",
+      "name": "New Orleans Saints",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/nd46c71537821337.png",
+      "yearFounded": "1966",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Tampa Bay Buccaneers @ New Orleans Saints",
+          "homeScore": "20",
+          "awayScore": "30",
+          "highlight": "https://www.youtube.com/watch?v=elkS8MEHY0Q"
+        },
+        {
+          "opponent": "Chicago Bears @ New Orleans Saints",
+          "homeScore": "21",
+          "awayScore": "9",
+          "highlight": "https://www.youtube.com/watch?v=S1TsLvj2tG8"
+        },
+        {
+          "opponent": "Minnesota Vikings @ New Orleans Saints",
+          "homeScore": "52",
+          "awayScore": "33",
+          "highlight": "https://www.youtube.com/watch?v=zvDV3tyACes"
+        },
+        {
+          "opponent": "Kansas City Chiefs @ New Orleans Saints",
+          "homeScore": "29",
+          "awayScore": "32",
+          "highlight": "https://www.youtube.com/watch?v=JuZmdYn1Hi8"
+        },
+        {
+          "opponent": "Atlanta Falcons @ New Orleans Saints",
+          "homeScore": "24",
+          "awayScore": "9",
+          "highlight": "https://www.youtube.com/watch?v=nrd8nZN1HCI"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 23
+    },
+    {
+      "sportsDbId": "134935",
+      "name": "New York Giants",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/vxppup1423669459.png",
+      "yearFounded": "1925",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Dallas Cowboys @ New York Giants",
+          "homeScore": "23",
+          "awayScore": "19",
+          "highlight": "https://www.youtube.com/watch?v=srLSmgdYrRE"
+        },
+        {
+          "opponent": "Cleveland Browns @ New York Giants",
+          "homeScore": "6",
+          "awayScore": "20",
+          "highlight": "https://www.youtube.com/watch?v=ppOKWJ9WGcg"
+        },
+        {
+          "opponent": "Arizona Cardinals @ New York Giants",
+          "homeScore": "7",
+          "awayScore": "26",
+          "highlight": "https://www.youtube.com/watch?v=lMU_IZuIr6o"
+        },
+        {
+          "opponent": "Philadelphia Eagles @ New York Giants",
+          "homeScore": "27",
+          "awayScore": "17",
+          "highlight": "https://www.youtube.com/watch?v=fWu70BGHBmM"
+        },
+        {
+          "opponent": "Tampa Bay Buccaneers @ New York Giants",
+          "homeScore": "23",
+          "awayScore": "25",
+          "highlight": "https://www.youtube.com/watch?v=6lqhhSX7Occ"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 24
+    },
+    {
       "sportsDbId": "134921",
       "name": "New York Jets",
-      "division": "AFL East",
       "logo": "https://www.thesportsdb.com/images/media/team/badge/hz92od1607953467.png",
       "yearFounded": "1959",
       "lastFiveGameScores": [
         {
           "opponent": "Cleveland Browns @ New York Jets",
-          "score": "23-16",
+          "homeScore": "23",
+          "awayScore": "16",
           "highlight": "https://www.youtube.com/watch?v=fPrAu9neHio"
+        },
+        {
+          "opponent": "Las Vegas Raiders @ New York Jets",
+          "homeScore": "28",
+          "awayScore": "31",
+          "highlight": "https://www.youtube.com/watch?v=2rgQoNzBuY8"
+        },
+        {
+          "opponent": "New England Patriots @ New York Jets",
+          "homeScore": "27",
+          "awayScore": "30",
+          "highlight": "https://www.youtube.com/watch?v=a966sfszNa8"
+        },
+        {
+          "opponent": "Buffalo Bills @ New York Jets",
+          "homeScore": "10",
+          "awayScore": "18",
+          "highlight": "https://www.youtube.com/watch?v=efCEnvvPCdQ"
+        },
+        {
+          "opponent": "Miami Dolphins @ New York Jets",
+          "homeScore": "0",
+          "awayScore": "24",
+          "highlight": "https://www.youtube.com/watch?v=x3BAtP0bUb8"
         }
       ],
-      "stretch": "chat area: [ ]"
+      "stretch": "chat area: [ ]",
+      "id": 25
+    },
+    {
+      "sportsDbId": "134936",
+      "name": "Philadelphia Eagles",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png",
+      "yearFounded": "1933",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Washington @ Philadelphia Eagles",
+          "homeScore": "14",
+          "awayScore": "20",
+          "highlight": "https://www.youtube.com/watch?v=qFZgCo3_YaU"
+        },
+        {
+          "opponent": "New Orleans Saints @ Philadelphia Eagles",
+          "homeScore": "24",
+          "awayScore": "21",
+          "highlight": "https://www.youtube.com/watch?v=10MjAQKz6cQ"
+        },
+        {
+          "opponent": "Seattle Seahawks @ Philadelphia Eagles",
+          "homeScore": "17",
+          "awayScore": "23",
+          "highlight": "https://www.youtube.com/watch?v=Y9PSykRZFtQ"
+        },
+        {
+          "opponent": "Dallas Cowboys @ Philadelphia Eagles",
+          "homeScore": "23",
+          "awayScore": "9",
+          "highlight": "https://www.youtube.com/watch?v=AeXPKSJRbzY"
+        },
+        {
+          "opponent": "New York Giants @ Philadelphia Eagles",
+          "homeScore": "22",
+          "awayScore": "21",
+          "highlight": "https://www.youtube.com/watch?v=i4Vj5HAzwiE"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 26
+    },
+    {
+      "sportsDbId": "134929",
+      "name": "Tennessee Titans",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/m48yia1515847376.png",
+      "yearFounded": "1960",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Baltimore Ravens @ Tennessee Titans",
+          "homeScore": "13",
+          "awayScore": "20",
+          "highlight": "https://www.youtube.com/watch?v=ugFLt8cIIzM"
+        },
+        {
+          "opponent": "Detroit Lions @ Tennessee Titans",
+          "homeScore": "46",
+          "awayScore": "25",
+          "highlight": "https://www.youtube.com/watch?v=PfrnxsV58rk"
+        },
+        {
+          "opponent": "Cleveland Browns @ Tennessee Titans",
+          "homeScore": "35",
+          "awayScore": "41",
+          "highlight": "https://www.youtube.com/watch?v=JSTfg_LNyMI"
+        },
+        {
+          "opponent": "Indianapolis Colts @ Tennessee Titans",
+          "homeScore": "17",
+          "awayScore": "34",
+          "highlight": "https://www.youtube.com/watch?v=j0F6caPFS38"
+        },
+        {
+          "opponent": "Chicago Bears @ Tennessee Titans",
+          "homeScore": "24",
+          "awayScore": "17",
+          "highlight": "https://www.youtube.com/watch?v=bfbs7h8Mz7Q"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 27
+    },
+    {
+      "sportsDbId": "134925",
+      "name": "Pittsburgh Steelers",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/2975411515853129.png",
+      "yearFounded": "1933",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Cleveland Browns @ Pittsburgh Steelers",
+          "homeScore": "37",
+          "awayScore": "48",
+          "highlight": "https://www.youtube.com/watch?v=vnrytrYaK64"
+        },
+        {
+          "opponent": "Indianapolis Colts @ Pittsburgh Steelers",
+          "homeScore": "28",
+          "awayScore": "24",
+          "highlight": "https://www.youtube.com/watch?v=iFJflbHLgWM"
+        },
+        {
+          "opponent": "Washington @ Pittsburgh Steelers",
+          "homeScore": "17",
+          "awayScore": "23",
+          "highlight": "https://www.youtube.com/watch?v=KZ6yUrYYEBM"
+        },
+        {
+          "opponent": "Baltimore Ravens @ Pittsburgh Steelers",
+          "homeScore": "19",
+          "awayScore": "14",
+          "highlight": "https://www.youtube.com/watch?v=Vw4S00rPbZM"
+        },
+        {
+          "opponent": "Cincinnati Bengals @ Pittsburgh Steelers",
+          "homeScore": "36",
+          "awayScore": "10",
+          "highlight": "https://www.youtube.com/watch?v=uwKjCmiuG0c"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 28
+    },
+    {
+      "sportsDbId": "134948",
+      "name": "San Francisco 49ers",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png",
+      "yearFounded": "1946",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Seattle Seahawks @ San Francisco 49ers",
+          "homeScore": "23",
+          "awayScore": "26",
+          "highlight": "https://www.youtube.com/watch?v=Zdl_WIuXNFE"
+        },
+        {
+          "opponent": "Washington @ San Francisco 49ers",
+          "homeScore": "15",
+          "awayScore": "23",
+          "highlight": "https://www.youtube.com/watch?v=WMzEfPKotQo"
+        },
+        {
+          "opponent": "Buffalo Bills @ San Francisco 49ers",
+          "homeScore": "24",
+          "awayScore": "34",
+          "highlight": "https://www.youtube.com/watch?v=HBsOYvCTsH0"
+        },
+        {
+          "opponent": "Green Bay Packers @ San Francisco 49ers",
+          "homeScore": "17",
+          "awayScore": "34",
+          "highlight": "https://www.youtube.com/watch?v=ZBunphIsgAw"
+        },
+        {
+          "opponent": "Los Angeles Rams @ San Francisco 49ers",
+          "homeScore": "24",
+          "awayScore": "16",
+          "highlight": "https://www.youtube.com/watch?v=Aj7T2rAJRWE"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 29
+    },
+    {
+      "sportsDbId": "134949",
+      "name": "Seattle Seahawks",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/wwuqyr1421434817.png",
+      "yearFounded": "1974",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Los Angeles Rams @ Seattle Seahawks",
+          "homeScore": "20",
+          "awayScore": "30",
+          "highlight": "https://www.youtube.com/watch?v=HNT6WElv9Yw"
+        },
+        {
+          "opponent": "Los Angeles Rams @ Seattle Seahawks",
+          "homeScore": "20",
+          "awayScore": "9",
+          "highlight": "https://www.youtube.com/watch?v=3q8o7y9ef6A"
+        },
+        {
+          "opponent": "New York Jets @ Seattle Seahawks",
+          "homeScore": "40",
+          "awayScore": "3",
+          "highlight": "https://www.youtube.com/watch?v=5Mbi8d1FkCc"
+        },
+        {
+          "opponent": "New York Giants @ Seattle Seahawks",
+          "homeScore": "12",
+          "awayScore": "17",
+          "highlight": "https://www.youtube.com/watch?v=x9HRL3izVw8"
+        },
+        {
+          "opponent": "Arizona Cardinals @ Seattle Seahawks",
+          "homeScore": "28",
+          "awayScore": "21",
+          "highlight": "https://www.youtube.com/watch?v=lUCEAPc1Ub8"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 30
+    },
+    {
+      "sportsDbId": "134945",
+      "name": "Tampa Bay Buccaneers",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png",
+      "yearFounded": "1976",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Kansas City Chiefs @ Tampa Bay Buccaneers",
+          "homeScore": "31",
+          "awayScore": "9",
+          "highlight": "https://www.youtube.com/watch?v=Gz5-NQROQGw"
+        },
+        {
+          "opponent": "Atlanta Falcons @ Tampa Bay Buccaneers",
+          "homeScore": "44",
+          "awayScore": "27",
+          "highlight": "https://www.youtube.com/watch?v=dly-nKcW-GA"
+        },
+        {
+          "opponent": "Minnesota Vikings @ Tampa Bay Buccaneers",
+          "homeScore": "26",
+          "awayScore": "14",
+          "highlight": "https://www.youtube.com/watch?v=jrvRIJEtVEg"
+        },
+        {
+          "opponent": "Kansas City Chiefs @ Tampa Bay Buccaneers",
+          "homeScore": "24",
+          "awayScore": "27",
+          "highlight": "https://www.youtube.com/watch?v=j9hlfqaw4i8"
+        },
+        {
+          "opponent": "Los Angeles Rams @ Tampa Bay Buccaneers",
+          "homeScore": "24",
+          "awayScore": "27",
+          "highlight": "https://www.youtube.com/watch?v=EeWXw6UuPrM"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 31
+    },
+    {
+      "sportsDbId": "134937",
+      "name": "Washington",
+      "logo": "https://www.thesportsdb.com/images/media/team/badge/1m3mzp1595609069.png",
+      "yearFounded": "1932",
+      "lastFiveGameScores": [
+        {
+          "opponent": "Tampa Bay Buccaneers @ Washington",
+          "homeScore": "23",
+          "awayScore": "31",
+          "highlight": "https://www.youtube.com/watch?v=WrXfJJEu-Oc"
+        },
+        {
+          "opponent": "Carolina Panthers @ Washington",
+          "homeScore": "13",
+          "awayScore": "20",
+          "highlight": "https://www.youtube.com/watch?v=A_eibQlFap0"
+        },
+        {
+          "opponent": "Seattle Seahawks @ Washington",
+          "homeScore": "15",
+          "awayScore": "20",
+          "highlight": "https://www.youtube.com/watch?v=HOLAEKfqe4c"
+        },
+        {
+          "opponent": "Cincinnati Bengals @ Washington",
+          "homeScore": "20",
+          "awayScore": "9",
+          "highlight": "https://www.youtube.com/watch?v=Zy042Zu-WDg"
+        },
+        {
+          "opponent": "New York Giants @ Washington",
+          "homeScore": "20",
+          "awayScore": "23",
+          "highlight": "https://www.youtube.com/watch?v=hv5wObqf-cc"
+        }
+      ],
+      "stretch": "chat area: [ ]",
+      "id": 32
     }
   ],
   "upcomingEvents": [
     {
-      "id": 0,
-      "teamsId": 0,
-      "userId": 0,
-      "date": "string",
-      "time": "string",
-      "opponent": "string",
-      "location": "string"
-    },
-    {
-      "teamsId": 0,
-      "title": "Guys Night",
-      "location": "NYC",
-      "opponent": "guys night?",
-      "date": "4/19",
-      "time": "11PM",
-      "id": 2
-    },
-    {
       "teamsId": 1,
-      "title": "Superbowl Weekend",
-      "location": "NYC",
-      "opponent": "BYOB",
-      "date": "4/20",
-      "time": "8PM",
-      "id": 3
+      "title": "hi",
+      "location": "",
+      "opponent": "keep adding \n",
+      "date": "",
+      "time": "asdf",
+      "comments": [],
+      "id": 5
+    },
+    {
+      "teamsId": 14,
+      "title": "hi",
+      "location": "at the bros house",
+      "opponent": "asdfadsfdsaf",
+      "date": "4/21/2021",
+      "time": "10:00pm",
+      "comments": [],
+      "id": 6
     }
   ],
   "chatbox": [
-    {
-      "id": 0,
-      "teamsId": 0,
-      "comment": "string"
-    },
-    {
-      "teamsId": "0",
-      "comment": "you guys going to guys night?",
-      "id": 1
-    },
-    {
-      "teamsId": "0",
-      "comment": "yeah man can't wait",
-      "id": 2
-    },
     {
       "teamsId": "1",
       "comment": "anyone here?",
@@ -92,6 +1318,71 @@
       "teamsId": "1",
       "comment": "sweet!",
       "id": 5
+    },
+    {
+      "teamsId": "1",
+      "comment": "hello",
+      "id": 6
+    },
+    {
+      "teamsId": "1",
+      "comment": "yeah man just chilling",
+      "id": 7
+    },
+    {
+      "teamsId": "1",
+      "comment": "this keeps going down. We want this to stay steady and then push the lines up until they disappear",
+      "id": 8
+    },
+    {
+      "teamsId": "14",
+      "comment": "heyyy\n",
+      "id": 9
+    },
+    {
+      "teamsId": 14,
+      "comment": "does this go?\n",
+      "id": 10
+    },
+    {
+      "teamsId": 14,
+      "comment": "asdfadsf",
+      "id": 11
+    },
+    {
+      "teamsId": 14,
+      "comment": "fasdfasdfa",
+      "id": 12
+    },
+    {
+      "teamsId": 14,
+      "comment": "i'd like this to stop after four or five lines\n",
+      "id": 13
+    },
+    {
+      "teamsId": 14,
+      "comment": "asdfadsfadsf",
+      "id": 14
+    },
+    {
+      "teamsId": 14,
+      "comment": "asdfadsfasdf",
+      "id": 15
+    },
+    {
+      "teamsId": 14,
+      "comment": "asdfadsfasdf",
+      "id": 16
+    },
+    {
+      "teamsId": 14,
+      "comment": "asdfadsfadsf",
+      "id": 17
+    },
+    {
+      "teamsId": 14,
+      "comment": "asdfadsfadsf",
+      "id": 18
     }
   ]
 }

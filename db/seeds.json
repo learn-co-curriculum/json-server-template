@@ -461,8 +461,7 @@
       "party": "Libertarian",
       "district": "GA-05",
       "image": "https://i.imgur.com/IUfVetq.jpg",
-      "contributors": [
-      ],
+      "contributors": [],
       "isWatched": false
     },
     {
@@ -493,10 +492,16 @@
   ],
   "comments": [
     {
-      "id": 1,
+      "commenterName": "zach ",
+      "comment": "antonio rocks",
+      "politicianId": 7,
+      "id": 8
+    },
+    {
       "commenterName": "Zach",
-      "comment": "Test comment on first politician",
-      "politicianId": 1
+      "comment": "Great person. Really like her politics. Will be sure to follow these organizations.",
+      "politicianId": 1,
+      "id": 11
     }
   ]
 }

@@ -6,55 +6,66 @@
       "party": "Democrat",
       "district": "GA-01",
       "image": "https://i.imgur.com/7u30wpp.jpg",
+      "url": "https://joycegriggs2022.com/",
       "contributors": [
         {
           "orgName": "Columbus State University",
           "total": 2800,
+          "orgUrl": "https://www.columbusstate.edu/",
           "industry": "Education"
         },
         {
           "orgName": "Union State Bank",
           "total": 2800,
+          "orgUrl": "https://www.myunionstate.bank/",
           "industry": "Financial"
         },
         {
           "orgName": "PG Government",
           "total": 2020,
+          "orgUrl": null,
           "industry": "Government"
         },
         {
           "orgName": "Alps Services",
           "total": 1000,
+          "orgUrl": "http://www.alpsservices.com/about-alps/",
           "industry": "Medical"
         },
         {
           "orgName": "Altidote Films",
           "total": 1000,
+          "orgUrl": "https://www.antidotefilms.com/",
           "industry": "Media"
         },
         {
           "orgName": "Benedict Silverman Foundation",
           "total": 1000,
+          "orgUrl": "https://projects.propublica.org/nonprofits/organizations/261441980",
           "industry": "Philanthropy"
         },
         {
           "orgName": "Fordham University",
           "total": 1000,
+          "orgUrl": "https://www.fordham.edu/",
           "industry": "Education"
         },
         {
           "orgName": "Liberty County Democratic",
           "total": 1000,
+          "orgUrl": "https://www.texasdemocrats.org/locality/liberty-county-democratic-party/",
           "industry": "Government"
         },
         {
           "orgName": "Strelitzia Ventures",
           "total": 1000,
+          "orgUrl": "https://rfhemphill.com/r-f-hemphill-media/",
           "industry": "Philanthropy"
         },
         {
           "orgName": "University of Maryland",
           "total": 1000,
+          "orgUrl": "https://www.umd.edu/",
           "industry": "Education"
         }
       ],
@@ -65,56 +76,67 @@
       "name": "Buddy Carter",
       "party": "Republican",
       "district": "GA-01",
+      "url": "https://buddycarter.house.gov/",
       "image": "https://i.imgur.com/uInwnc1.jpg",
       "contributors": [
         {
           "orgName": "General Dynamics",
           "total": 17010,
-          "industry": "Technology"
+          "orgUrl": "https://www.gd.com/",
+          "industry": "Defense"
         },
         {
           "orgName": "Associated Urological Specialists",
           "total": 16000,
+          "orgUrl": "https://auspecialists.com/doctors/",
           "industry": "Medical"
         },
         {
           "orgName": "ClearPath Foundation",
           "total": 14300,
+          "orgUrl": "https://clearpath.org/",
           "industry": "Technology"
         },
         {
           "orgName": "Lee Container Corp",
           "total": 12600,
+          "orgUrl": "https://www.leecontainer.com/",
           "industry": "Local business/individual"
         },
         {
           "orgName": "National Community Pharmacists Association",
           "total": 12500,
+          "orgUrl": "https://ncpa.org/",
           "industry": "Medical"
         },
         {
           "orgName": "Medquest Pharmacy",
           "total": 11200,
+          "orgUrl": "https://mqrx.com/",
           "industry": "Medical"
         },
         {
           "orgName": "AT&T Inc",
           "total": 11000,
+          "orgUrl": "https://www.att.com/",
           "industry": "Technology"
         },
         {
           "orgName": "Home Depot",
           "total": 10500,
+          "orgUrl": "https://www.homedepot.com/",
           "industry": "Retail"
         },
         {
           "orgName": "International Paper",
           "total": 10500,
+          "orgUrl": "http://www.internationalpaper.com/",
           "industry": "Manufacturing"
         },
         {
           "orgName": "Koch Industries",
           "total": 10500,
+          "orgUrl": "https://www.kochind.com/",
           "industry": "Manufacturing"
         }
       ],
@@ -126,55 +148,66 @@
       "party": "Democrat",
       "district": "GA-02",
       "image": "https://i.imgur.com/gI0wFnP.jpg",
+      "url": "https://bishop.house.gov/",
       "contributors": [
         {
           "orgName": "AFLAC Inc",
           "total": 16350,
+          "orgUrl": "https://www.aflac.com/",
           "industry": "Insurance"
         },
         {
           "orgName": "Raytheon Technologies",
           "total": 13500,
+          "orgUrl": "https://www.rtx.com/",
           "industry": "Defense"
         },
         {
           "orgName": "Teamsters Union",
           "total": 10050,
+          "orgUrl": "https://teamster.org/",
           "industry": "Associations"
         },
         {
           "orgName": "Alabama Farmers Federation",
           "total": 10000,
+          "orgUrl": "https://alfafarmers.org/",
           "industry": "Agriculture"
         },
         {
           "orgName": "Altria Group",
           "total": 10000,
+          "orgUrl": "https://www.altria.com/en",
           "industry": "Manufacturing"
         },
         {
           "orgName": "American Crystal Sugar",
           "total": 10000,
+          "orgUrl": "https://www.crystalsugar.com/",
           "industry": "Agriculture"
         },
         {
           "orgName": "American Federation of State/Cnty/Munic Employees",
           "total": 10000,
+          "orgUrl": "https://www.afscme.org/",
           "industry": "Government"
         },
         {
           "orgName": "American Federation of Teachers",
           "total": 10000,
+          "orgUrl": "https://www.aft.org/",
           "industry": "Education"
         },
         {
           "orgName": "American Peanut Shellers Association",
           "total": 10000,
+          "orgUrl": "http://www.peanut-shellers.org/",
           "industry": "Agriculture"
         },
         {
           "orgName": "American Pistachio Growers",
           "total": 10000,
+          "orgUrl": "https://americanpistachios.org/",
           "industry": "Agriculture"
         }
       ],
@@ -186,55 +219,66 @@
       "party": "Republican",
       "district": "GA-02",
       "image": "https://i.imgur.com/vKDSwyD.jpg",
+      "url": "https://vivianchilds.com/",
       "contributors": [
         {
           "orgName": "Education System Management",
           "total": 2000,
+          "orgUrl": "https://npiprofile.com/npi/1508134156",
           "industry": "Education"
         },
         {
           "orgName": "BTV Systems",
           "total": 500,
+          "orgUrl": "https://www.btvsystems.com/",
           "industry": "Local business/individual"
         },
         {
           "orgName": "Fickling Co.",
           "total": 500,
+          "orgUrl": "https://www.fickling.com/",
           "industry": "Local business/individual"
         },
         {
           "orgName": "ThinWell Clinic",
           "total": 300,
+          "orgUrl": "https://www.thinwellclinic.com/",
           "industry": "Medical"
         },
         {
           "orgName": "Hattaway Farms",
           "total": 250,
+          "orgUrl": "http://www.hattawayfarms.com/",
           "industry": "Local business/individual"
         },
         {
           "orgName": "Herschend Enterprises",
           "total": 250,
+          "orgUrl": "https://herschendenterprises.com/",
           "industry": "Local business/individual"
         },
         {
           "orgName": "United Airlines Holdings",
           "total": 250,
+          "orgUrl": "https://ir.united.com/",
           "industry": "Travel"
         },
         {
           "orgName": "Medsmarter",
           "total": 122,
+          "orgUrl": "https://www.medsmarter.com/",
           "industry": "Medical"
         },
         {
           "orgName": "Crawford County, GA",
           "total": 100,
+          "orgUrl": "https://www.crawfordcountyga.org/",
           "industry": "Government"
         },
         {
           "orgName": "Kindred Hospice",
           "total": 100,
+          "orgUrl": "https://www.kindredhealthcare.com/our-services/hospice",
           "industry": "Medical"
         }
       ],
@@ -246,55 +290,66 @@
       "party": "Democrat",
       "district": "GA-03",
       "image": "https://i.imgur.com/aXKtAmS.jpg",
+      "url": "https://almonordforcongress.com/",
       "contributors": [
         {
           "orgName": "K Rowe Investments",
           "total": 2800,
+          "orgUrl": "https://graphics.stltoday.com/apps/campaign-finance/missouri/donor/s38267850/",
           "industry": "Local business/individual"
         },
         {
           "orgName": "American Federation of Government Employees",
           "total": 2500,
+          "orgUrl": "https://www.afge.org/",
           "industry": "Government"
         },
         {
           "orgName": "The Collective PAC",
           "total": 2500,
+          "orgUrl": "https://collectivepac.org/",
           "industry": "PAC"
         },
         {
           "orgName": "Retail Vendor",
           "total": 1600,
+          "orgUrl": null,
           "industry": "Retail"
         },
         {
           "orgName": "Committee to Elect Almonord",
           "total": 1082,
+          "orgUrl": "https://almonordforcongress.com/",
           "industry": "PAC"
         },
         {
           "orgName": "Delta Air Lines",
           "total": 650,
+          "orgUrl": "https://www.delta.com/",
           "industry": "Travel"
         },
         {
           "orgName": "Sentinel Technology",
           "total": 600,
+          "orgUrl": "https://www.sentinel.com/",
           "industry": "Technology"
         },
         {
           "orgName": "San Mateo County, GA",
           "total": 500,
+          "orgUrl": "https://www.smcgov.org/?gclid=Cj0KCQjwvYSEBhDjARIsAJMn0lgrKkN4YDw0-W2iAgUyoUrr7AXuEGHwuyvKkVXZKs3nOQEHTkkeQn8aAhCsEALw_wcB",
           "industry": "Government"
         },
         {
           "orgName": "Teamsters Union",
           "total": 500,
+          "orgUrl": "https://teamster.org/",
           "industry": "Union"
         },
         {
           "orgName": "US Air Force",
           "total": 350,
+          "orgUrl": "https://www.airforce.com/",
           "industry": "Defense"
         }
       ],
@@ -306,55 +361,66 @@
       "party": "Republican",
       "district": "GA-03",
       "image": "https://i.imgur.com/bPCbl55.jpg",
+      "url": "https://ferguson.house.gov/",
       "contributors": [
         {
           "orgName": "Global Payments",
           "total": 15800,
+          "orgUrl": "https://www.globalpayments.com/",
           "industry": "Technology"
         },
         {
           "orgName": "Georgia Crown Distributing",
           "total": 15500,
+          "orgUrl": "https://www.globalpayments.com/",
           "industry": "Local business/individual"
         },
         {
           "orgName": "Koch Industries",
           "total": 13300,
+          "orgUrl": "https://www.kochind.com/",
           "industry": "Manufacturing"
         },
         {
           "orgName": "Coca-Cola",
           "total": 13100,
+          "orgUrl": "https://www.coca-colacompany.com/home",
           "industry": "Manufacturing"
         },
         {
           "orgName": "American Dental Association",
           "total": 12851,
+          "orgUrl": "https://www.ada.org/en",
           "industry": "Medical"
         },
         {
           "orgName": "National Distributing Co",
           "total": 12200,
+          "orgUrl": "https://www.rndc-usa.com/",
           "industry": "Local business/individual"
         },
         {
           "orgName": "AL Grading Contractors",
           "total": 11200,
+          "orgUrl": "https://algrading.com/",
           "industry": "Local business/individual"
         },
         {
           "orgName": "Blackstone Group",
           "total": 11200,
+          "orgUrl": "https://www.blackstone.com/",
           "industry": "Financial"
         },
         {
           "orgName": "North Georgia Turf",
           "total": 11200,
+          "orgUrl": "https://ngturf.com/",
           "industry": "Agriculture"
         },
         {
           "orgName": "Schuster Enterprises",
           "total": 11200,
+          "orgUrl": null,
           "industry": "Local business/individual"
         }
       ],
@@ -366,55 +432,66 @@
       "party": "Democrat",
       "district": "GA-04",
       "image": "https://i.imgur.com/zM66fTD.jpg",
+      "url": "https://www.antoniohicksforcongress.com/",
       "contributors": [
         {
           "orgName": "Atlanta Technical College",
           "total": 1000,
+          "orgUrl": "https://atlantatech.edu/",
           "industry": "Education"
         },
         {
           "orgName": "Charter Communications",
           "total": 133,
+          "orgUrl": "https://www.spectrum.com/services/georgia",
           "industry": "Technology"
         },
         {
           "orgName": "Sage",
           "total": 100,
+          "orgUrl": "https://www.sage.com/en-us/",
           "industry": "Technology"
         },
         {
           "orgName": "The Qt Co",
           "total": 100,
+          "orgUrl": "https://www.qt.io/company",
           "industry": "Misc"
         },
         {
           "orgName": "Conduent Inc",
           "total": 81,
+          "orgUrl": "https://www.conduent.com/",
           "industry": "Technology"
         },
         {
           "orgName": "Mercer University",
           "total": 54,
+          "orgUrl": "https://www.mercer.edu/",
           "industry": "Education"
         },
         {
           "orgName": "Adam F",
           "total": 50,
+          "orgUrl": null,
           "industry": "Local business/individual"
         },
         {
           "orgName": "Atc",
           "total": 50,
+          "orgUrl": "https://www.atcincometax.com/",
           "industry": "Local business/individual"
         },
         {
           "orgName": "Buxton Consulting",
           "total": 50,
+          "orgUrl": "https://buxtonconsulting.com/",
           "industry": "Technology"
         },
         {
           "orgName": "Safran Aerosystems",
           "total": 50,
+          "orgUrl": "https://www.safran-aerosystems.com/",
           "industry": "Technology"
         }
       ],
@@ -426,30 +503,36 @@
       "party": "Republican",
       "district": "GA-04",
       "image": "https://i.imgur.com/9lhmn3S.jpg",
+      "url": "https://ballotpedia.org/Johsie_Cruz",
       "contributors": [
         {
           "orgName": "Meridian Group",
           "total": 6083,
+          "orgUrl": "https://tmgdc.com/",
           "industry": "Financial"
         },
         {
           "orgName": "Momentsinprint",
           "total": 1530,
+          "orgUrl": null,
           "industry": "Local business/individual"
         },
         {
           "orgName": "Advise LLC",
           "total": 1500,
+          "orgUrl": "https://georgiacompany.info/co/advise-llc",
           "industry": "Local business/individual"
         },
         {
           "orgName": "PR Realty",
           "total": 1000,
+          "orgUrl": null,
           "industry": "Local business/individual"
         },
         {
           "orgName": "Raci",
           "total": 300,
+          "orgUrl": null,
           "industry": "Misc"
         }
       ],
@@ -461,6 +544,7 @@
       "party": "Libertarian",
       "district": "GA-05",
       "image": "https://i.imgur.com/IUfVetq.jpg",
+      "url": "https://www.elect535.org/2020/house/ga05/demondria-jefferson",
       "contributors": [],
       "isWatched": false
     },
@@ -470,21 +554,674 @@
       "party": "Libertarian",
       "district": "GA-05",
       "image": "https://i.imgur.com/qE6YP3X.jpg",
+      "url": null,
       "contributors": [
         {
           "orgName": "Atkins",
           "total": 650,
+          "orgUrl": null,
           "industry": "Local business/individual"
         },
         {
           "orgName": "Navaid Equity Partners LP",
           "total": 500,
+          "orgUrl": "https://navaidequity.com/",
           "industry": "Local business/individual"
         },
         {
           "orgName": "Platte Institute for Economic Research",
           "total": 250,
+          "orgUrl": "https://platteinstitute.org/",
           "industry": "Financial"
+        }
+      ],
+      "isWatched": false
+    },
+    {
+      "id": 11,
+      "name": "John Bergman",
+      "party": "Republican",
+      "district": "MI-01",
+      "image": "https://i.imgur.com/EfBk6es.jpg",
+      "url": "https://bergman.house.gov/",
+      "contributors": [
+        {
+          "orgName": "Haworth Inc",
+          "total": 22400,
+          "orgUrl": "https://www.haworth.com/na/en.html",
+          "industry": "Retail"
+        },
+        {
+          "orgName": "Medquest Pharmacy",
+          "total": 17800,
+          "orgUrl": "https://mqrx.com/",
+          "industry": "Medical"
+        },
+        {
+          "orgName": "RDV Corp",
+          "total": 16800,
+          "orgUrl": "https://jobs.rdvcorp.com/",
+          "industry": "Financial"
+        },
+        {
+          "orgName": "Michigan Research Institute",
+          "total": 13600,
+          "orgUrl": "https://www.mtu.edu/mtri/",
+          "industry": "Education"
+        },
+        {
+          "orgName": "AT&T Inc",
+          "total": 13234,
+          "orgUrl": "https://www.att.com/",
+          "industry": "Technology"
+        },
+        {
+          "orgName": "First Watch Restaurants",
+          "total": 11700,
+          "orgUrl": "https://www.firstwatch.com/",
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Boyne Resorts",
+          "total": 11200,
+          "orgUrl": "https://www.boyneresorts.com/",
+          "industry": "Travel"
+        },
+        {
+          "orgName": "Cashflow Technologies",
+          "total": 11200,
+          "orgUrl": "https://www.richdad.com/",
+          "industry": "Technology"
+        },
+        {
+          "orgName": "Durandal Inc",
+          "total": 11200,
+          "orgUrl": "http://durandaljs.com/",
+          "industry": "Technology"
+        },
+        {
+          "orgName": "Krist Oil",
+          "total": 11200,
+          "orgUrl": "http://www.kristoil.com/",
+          "industry": "Manufacturing"
+        }
+      ],
+      "isWatched": false
+    },
+    {
+      "id": 12,
+      "name": "Dana Ferguson",
+      "party": "Democrat",
+      "district": "MI-01",
+      "image": "https://i.imgur.com/nKhr1fq.jpg",
+      "url": "https://www.fergusonformichigan1.com/",
+      "contributors": [
+        {
+          "orgName": "Meditch Murphey Architects",
+          "total": 5300,
+          "orgUrl": "https://www.meditchmurphey.com/",
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "United Auto Workers",
+          "total": 5105,
+          "orgUrl": "https://uaw.org/",
+          "industry": "Automotive"
+        },
+        {
+          "orgName": "Content Organized Interiors",
+          "total": 4800,
+          "orgUrl": null,
+          "industry": "Retail"
+        },
+        {
+          "orgName": "Harvard University",
+          "total": 2900,
+          "orgUrl": "https://www.harvard.edu/",
+          "industry": "Education"
+        },
+        {
+          "orgName": "Mark S Pash",
+          "total": 2800,
+          "orgUrl": null,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "McArthurglen Group",
+          "total": 2800,
+          "orgUrl": "https://www.mcarthurglen.com/en/",
+          "industry": "Retail"
+        },
+        {
+          "orgName": "Stryker Corp",
+          "total": 2800,
+          "orgUrl": "https://www.stryker.com/us/en/index.html",
+          "industry": "Medical"
+        },
+        {
+          "orgName": "Apple Inc",
+          "total": 2250,
+          "orgUrl": "https://www.apple.com/",
+          "industry": "Technology"
+        },
+        {
+          "orgName": "Traverse Connect",
+          "total": 1515,
+          "orgUrl": "https://traverseconnect.com/",
+          "industry": "Financial"
+        },
+        {
+          "orgName": "University of Michigan",
+          "total": 1435,
+          "orgUrl": "https://umich.edu/",
+          "industry": "Education"
+        }
+      ],
+      "isWatched": false
+    },
+    {
+      "id": 13,
+      "name": "Bryan Berghoef",
+      "party": "Democrat",
+      "district": "MI-02",
+      "image": "https://i.imgur.com/lN7Peaj.jpg",
+      "url": "https://ballotpedia.org/Bryan_Berghoef",
+      "contributors": [
+        {
+          "orgName": "Hope College",
+          "total": 12671,
+          "orgUrl": "https://hope.edu/",
+          "industry": "Education"
+        },
+        {
+          "orgName": "Holland Hospital",
+          "total": 9400,
+          "orgUrl": "https://www.hollandhospital.org/hh/home.aspx",
+          "industry": "Medical"
+        },
+        {
+          "orgName": "Mercy Health",
+          "total": 9250,
+          "orgUrl": "https://www.mercy.com/",
+          "industry": "Medical"
+        },
+        {
+          "orgName": "Spectrum Health",
+          "total": 8584,
+          "orgUrl": "https://www.spectrumhealth.org/",
+          "industry": "Medical"
+        },
+        {
+          "orgName": "MITRE Corp",
+          "total": 6739,
+          "orgUrl": "https://www.mitre.org/",
+          "industry": "Misc"
+        },
+        {
+          "orgName": "Michigan State University",
+          "total": 6688,
+          "orgUrl": "https://msu.edu/",
+          "industry": "Education"
+        },
+        {
+          "orgName": "Dba: Sean Myers",
+          "total": 6450,
+          "orgUrl": null,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Cancer & Hematology Centers of Western",
+          "total": 6400,
+          "orgUrl": "https://www.chcwm.com/",
+          "industry": "Medical"
+        },
+        {
+          "orgName": "Grand Valley State University",
+          "total": 6010,
+          "orgUrl": "https://www.gvsu.edu/",
+          "industry": "Education"
+        },
+        {
+          "orgName": "Mackite",
+          "total": 5850,
+          "orgUrl": "https://www.mackiteboarding.com/",
+          "industry": "Retail"
+        }
+      ],
+      "isWatched": false
+    },
+    {
+      "id": 14,
+      "name": "Bill Huizenga",
+      "party": "Republican",
+      "district": "MI-02",
+      "image": "https://i.imgur.com/cTASMRs.jpg",
+      "url": "https://huizenga.house.gov/",
+      "contributors": [
+        {
+          "orgName": "Votesane PAC",
+          "total": 89600,
+          "orgUrl": "https://votesane.com/about-us",
+          "industry": "PAC"
+        },
+        {
+          "orgName": "Amway/Alticor Inc",
+          "total": 38900,
+          "orgUrl": "https://www.amwayglobal.com/",
+          "industry": "Retail"
+        },
+        {
+          "orgName": "New York Life Insurance",
+          "total": 25300,
+          "orgUrl": "https://www.newyorklife.com/",
+          "industry": "Insurance"
+        },
+        {
+          "orgName": "RDV Corp",
+          "total": 19000,
+          "orgUrl": "https://jobs.rdvcorp.com/",
+          "industry": "Financial"
+        },
+        {
+          "orgName": "Bank of America",
+          "total": 15650,
+          "orgUrl": "https://www.bankofamerica.com/",
+          "industry": "Financial"
+        },
+        {
+          "orgName": "CMS Energy",
+          "total": 15500,
+          "orgUrl": "https://www.cmsenergy.com/home/default.aspx",
+          "industry": "Misc"
+        },
+        {
+          "orgName": "Prudential PLC",
+          "total": 12500,
+          "orgUrl": "https://www.prudentialplc.com/en",
+          "industry": "Insurance"
+        },
+        {
+          "orgName": "Request Foods Inc",
+          "total": 11950,
+          "orgUrl": "https://www.requestfoods.com/",
+          "industry": "Misc"
+        },
+        {
+          "orgName": "Ernst & Young",
+          "total": 11500,
+          "orgUrl": "https://www.ey.com/en_us",
+          "industry": "Misc"
+        },
+        {
+          "orgName": "Bk2 Holdings",
+          "total": 11200,
+          "orgUrl": null,
+          "industry": "Financial"
+        }
+      ],
+      "isWatched": false
+    },
+    {
+      "id": 15,
+      "name": "Lynn Afendoulis",
+      "party": "Republican",
+      "district": "MI-03",
+      "image": "https://i.imgur.com/mXqU45n.jpg",
+      "url": "https://lynnafendoulis.com/",
+      "contributors": [
+        {
+          "orgName": "Skytron",
+          "total": 14000,
+          "orgUrl": "https://www.skytron.com/",
+          "industry": "Medical"
+        },
+        {
+          "orgName": "Forever YOUNG PAC",
+          "total": 7200,
+          "orgUrl": null,
+          "industry": "PAC"
+        },
+        {
+          "orgName": "Muskegon Car Credit",
+          "total": 5600,
+          "orgUrl": "https://www.carcity.com/",
+          "industry": "Automotive"
+        },
+        {
+          "orgName": "Ufpo",
+          "total": 5600,
+          "orgUrl": null,
+          "industry": "Misc"
+        },
+        {
+          "orgName": "National Assn of Realtors",
+          "total": 5000,
+          "orgUrl": "https://www.nar.realtor/",
+          "industry": "Associations"
+        },
+        {
+          "orgName": "Value in Electing Women PAC",
+          "total": 5000,
+          "orgUrl": "https://viewpac.org/",
+          "industry": "PAC"
+        },
+        {
+          "orgName": "Patterson Ice Center",
+          "total": 4800,
+          "orgUrl": "https://www.pattersonicecenter.com/",
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Varnum Law",
+          "total": 4700,
+          "orgUrl": "https://www.varnumlaw.com/",
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Alliance Beverage",
+          "total": 3650,
+          "orgUrl": "https://alliancebeverage.com/",
+          "industry": "Misc"
+        },
+        {
+          "orgName": "UFP Industries",
+          "total": 3205,
+          "orgUrl": "https://www.ufpi.com/",
+          "industry": "Manufacturing"
+        }
+      ],
+      "isWatched": false
+    },
+    {
+      "id": 16,
+      "name": "Nancy Goroff",
+      "party": "Democrat",
+      "district": "NY-01",
+      "image": "https://i.imgur.com/GDwmYzn.jpg",
+      "url": "https://www.goroffforcongress.com/",
+      "contributors": [
+        {
+          "orgName": "Renaissance Technologies",
+          "total": 210510,
+          "orgUrl": "https://www.rentec.com/Home.action?index=true",
+          "industry": "Financial"
+        },
+        {
+          "orgName": "State University of New York",
+          "total": 149628,
+          "orgUrl": "https://www.suny.edu/",
+          "industry": "Education"
+        },
+        {
+          "orgName": "Emily's List",
+          "total": 39643,
+          "orgUrl": "https://www.emilyslist.org/",
+          "industry": "PAC"
+        },
+        {
+          "orgName": "University of California",
+          "total": 36154,
+          "orgUrl": "https://www.universityofcalifornia.edu/",
+          "industry": "Education"
+        },
+        {
+          "orgName": "Alphabet Inc",
+          "total": 31287,
+          "orgUrl": "https://abc.xyz/",
+          "industry": "Associations"
+        },
+        {
+          "orgName": "Columbia University",
+          "total": 25830,
+          "orgUrl": "https://www.columbia.edu/",
+          "industry": "Education"
+        },
+        {
+          "orgName": "Wachtell, Lipton et al",
+          "total": 23805,
+          "orgUrl": "https://www.wlrk.com/",
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "US Dept of Energy",
+          "total": 23461,
+          "orgUrl": "https://www.energy.gov/",
+          "industry": "Government"
+        },
+        {
+          "orgName": "Bld Architecture",
+          "total": 22100,
+          "orgUrl": "http://www.bldnow.com/",
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "City of New York, NY",
+          "total": 20255,
+          "orgUrl": "https://www1.nyc.gov/",
+          "industry": "Government"
+        }
+      ],
+      "isWatched": false
+    },
+    {
+      "id": 17,
+      "name": "Lee Zeldin",
+      "party": "Republican",
+      "district": "NY-01",
+      "image": "https://i.imgur.com/DwP28fR.jpg",
+      "url": "https://zeldin.house.gov/",
+      "contributors": [
+        {
+          "orgName": "Pro-israel America PAC",
+          "total": 144374,
+          "orgUrl": "https://proisraelamerica.org/",
+          "industry": "PAC"
+        },
+        {
+          "orgName": "Republican Jewish Coalition",
+          "total": 66621,
+          "orgUrl": "https://www.rjchq.org/",
+          "industry": "Associations"
+        },
+        {
+          "orgName": "New York Cancer & Blood Specialists",
+          "total": 40750,
+          "orgUrl": "https://nycancer.com/",
+          "industry": "Medical"
+        },
+        {
+          "orgName": "Hj Kalikow & Co",
+          "total": 29000,
+          "orgUrl": "https://www.hjkalikow.com/",
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Blackstone Group",
+          "total": 28040,
+          "orgUrl": "https://www.blackstone.com/",
+          "industry": "Financial"
+        },
+        {
+          "orgName": "NorPAC",
+          "total": 27700,
+          "orgUrl": "https://norpac.com/",
+          "industry": "PAC"
+        },
+        {
+          "orgName": "Duty Free Americas",
+          "total": 25200,
+          "orgUrl": "https://dutyfreeamericas.com/",
+          "industry": "Retail"
+        },
+        {
+          "orgName": "Engel Burman Group",
+          "total": 23800,
+          "orgUrl": "https://engelburman.com/",
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "New Mountain Capital",
+          "total": 21600,
+          "orgUrl": "http://www.bldnow.com/",
+          "industry": "Financial"
+        },
+        {
+          "orgName": "Kirkland & Ellis",
+          "total": 19700,
+          "orgUrl": "https://www.kirkland.com/",
+          "industry": "Local business/individual"
+        }
+      ],
+      "isWatched": false
+    },
+    {
+      "id": 18,
+      "name": "Trish Bergin",
+      "party": "Republican",
+      "district": "NY-02",
+      "image": "https://i.imgur.com/T57UPP3.jpg",
+      "url": "https://islipny.gov/government/town-board/councilwoman-bergin-weichbrodt/seat-1",
+      "contributors": [],
+      "isWatched": false
+    },
+    {
+      "id": 19,
+      "name": "Andrew Garbarino",
+      "party": "Republican",
+      "district": "NY-02",
+      "image": "https://i.imgur.com/Adf2TwJ.jpg",
+      "url": "https://garbarino.house.gov/",
+      "contributors": [
+        {
+          "orgName": "Clare Rose",
+          "total": 37400,
+          "orgUrl": null,
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "All County Block & Supply",
+          "total": 25200,
+          "orgUrl": "http://www.allcountyblock.com/",
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Brinkmann Hardware",
+          "total": 23600,
+          "orgUrl": "https://brinkmannhardware.com/",
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Edwards & Co",
+          "total": 14200,
+          "orgUrl": "https://www.edwardsandco.net/",
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Hearst Corp",
+          "total": 11200,
+          "orgUrl": "https://www.hearst.com/",
+          "industry": "Media"
+        },
+        {
+          "orgName": "Peter & Lynn LLC",
+          "total": 11200,
+          "orgUrl": "https://www.youtube.com/channel/UCmWuEDMOD0CCXSLZ6Z7awqg",
+          "industry": "Local business/individual"
+        },
+        {
+          "orgName": "Red Apple Group",
+          "total": 11200,
+          "orgUrl": "http://ragny.com/",
+          "industry": "Finance"
+        },
+        {
+          "orgName": "Whitmore Agency",
+          "total": 11200,
+          "orgUrl": "https://www.whitmoregroup.com/",
+          "industry": "Insurance"
+        },
+        {
+          "orgName": "Operating Engineers Union",
+          "total": 10250,
+          "orgUrl": "https://www.iuoe.org/",
+          "industry": "Associations"
+        },
+        {
+          "orgName": "Town of Islip",
+          "total": 10205,
+          "orgUrl": "https://islipny.gov/",
+          "industry": "Government"
+        }
+      ],
+      "isWatched": false
+    },
+    {
+      "id": 20,
+      "name": "Alexandria Ocasio-Cortez",
+      "party": "Democrat",
+      "district": "NY-14",
+      "image": "https://i.imgur.com/zxFGzIv.jpg",
+      "url": "https://ocasio-cortez.house.gov/",
+      "contributors": [
+        {
+          "orgName": "University of California",
+          "total": 117026,
+          "orgUrl": "https://www.universityofcalifornia.edu/",
+          "industry": "Education"
+        },
+        {
+          "orgName": "Alphabet Inc",
+          "total": 100796,
+          "orgUrl": "https://abc.xyz/",
+          "industry": "Associations"
+        },
+        {
+          "orgName": "City of New York, NY",
+          "total": 73637,
+          "orgUrl": "https://www1.nyc.gov/",
+          "industry": "Government"
+        },
+        {
+          "orgName": "Amazon.com",
+          "total": 62212,
+          "orgUrl": "https://www.edwardsandco.net/",
+          "industry": "Retail"
+        },
+        {
+          "orgName": "New York University",
+          "total": 51873,
+          "orgUrl": "https://www.nyu.edu/",
+          "industry": "Education"
+        },
+        {
+          "orgName": "Apple Inc",
+          "total": 50186,
+          "orgUrl": "https://www.apple.com/",
+          "industry": "Technology"
+        },
+        {
+          "orgName": "Microsoft Corp",
+          "total": 44785,
+          "orgUrl": "https://www.microsoft.com/en-us?ql=3",
+          "industry": "Technology"
+        },
+        {
+          "orgName": "AT&T Inc",
+          "total": 40674,
+          "orgUrl": "https://www.att.com/",
+          "industry": "Technology"
+        },
+        {
+          "orgName": "Kaiser Permanente",
+          "total": 38663,
+          "orgUrl": "https://healthy.kaiserpermanente.org/front-door",
+          "industry": "Medical"
+        },
+        {
+          "orgName": "City University of New York",
+          "total": 38452,
+          "orgUrl": "https://www.cuny.edu/",
+          "industry": "Education"
         }
       ],
       "isWatched": false

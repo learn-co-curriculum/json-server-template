@@ -16,20 +16,89 @@
       "image": "https://assets.vg247.com/current//2018/05/red_dead_redemption_2_cover_art_1.jpg",
       "studio": "Rockstar Games",
       "releaseDate": "October 26, 2018",
-      "review": "Rockstar's second installment follows the Van der Linde gang through changing times in the West. Pinkertons, funded by wealthy business magnates, are trying to take the west from the outlaws. A truly beautiful game with enough side quests, easter eggs, and exploration for hours and hours of gameplay.",
+      "review": "Rockstar's second installment follows the Van der Linde gang through changing times in the West. Pinkertons, funded by a wealthy business magnate, are trying to take the west from the outlaws. A truly beautiful game with enough side quests, easter eggs, and exploration for hours and hours of gameplay.",
       "genre": "RPG",
       "plays": 0
     },
     {
       "id": 3,
       "title": "Fallout 3",
-      "image": "https://www.mobygames.com/images/covers/l/376858-the-elder-scrolls-v-skyrim-special-edition-xbox-one-front-cover.png",
+      "image": "https://static.wikia.nocookie.net/fallout/images/c/c0/Fallout_3_cover_art.png/revision/latest?cb=20150327223914",
       "studio": "Bethesda",
-      "releaseDate": "November 11, 2011",
-      "review": "The epic fifth chapter in the Elder Scrolls franchise. The player escapes unjust execution to fufill their destiny. With a massive open world and righteous DLC, this game is a must play for any fan of the RPG genre.",
+      "releaseDate": "October 28, 2008",
+      "review": "Bethesda's first release under this title after purchasing the IP from Interplay. The Lone Wanderer escapes Vault 101 in search of their father only to find a dangerous and inhospitable Capital City Wasteland. You quickly understand why Bethesda decided to buy the IP after originally licensing it when playing this game. A true masterpiece.",
       "genre": "RPG",
       "plays": 0
+    },
+    {
+      "id": 4,
+      "title": "Fallout 4",
+      "image": "https://www.mobygames.com/images/covers/l/330888-fallout-4-digital-deluxe-bundle-playstation-4-front-cover.jpg",
+      "studio": "Bethesda",
+      "releaseDate": "November 10, 2015",
+      "review": "A welcomed sequel to this much loved franchise. The Lone Survivor leaves Vault 111 in search of their son after being cryogenically frozen for 200 years. Sharpened gameplay, graphics, weapon and armor modding, and the addition of settlment building make this game as addicitive as its predecessor.",
+      "genre": "RPG",
+      "plays": 0
+    },
+    {
+      "id": 5,
+      "title": "Halo 3",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b4/Halo_3_final_boxshot.JPG",
+      "studio": "Bungie",
+      "releaseDate": "September 25, 2007",
+      "review": "Come for the challenging campaign and stay for the endless fun of online play. Bungie's third entry into the Halo universe does not dissapoint. Get a case of mountain dew and buckle up, this game rocks.",
+      "genre": "FPS",
+      "plays": 0
+    },
+    {
+      "id": 6,
+      "title": "Call of Duty 4: Modern Warfare",
+      "image": "https://www.giantbomb.com/a/uploads/original/8/87790/1784886-box_cod4mwds.png",
+      "studio": "Infinity Ward/Activision",
+      "releaseDate": "November 5, 2007",
+      "review": "A genre defining game that set the standard for FPS moving forward. A riveting campaign that will keep you up all night, coupled with online play that features maps, guns, perks, and game modes that persist in Call of Duty releases to this day. This game should be remastered until the end of time",
+      "genre": "FPS",
+      "plays": 0
+    },
+    {
+      "id": 7,
+      "title": "Battlefield 1",
+      "image": "https://www.mobygames.com/images/covers/l/367151-battlefield-1-playstation-4-front-cover.jpg",
+      "studio": "EA/DICE",
+      "releaseDate": "October 21, 2016",
+      "review": "A bold and invigorating game. At a time when other releases of this genre looked towards the future, EA and DICE looked to the past. Along with Battlefield's one of a kind online play set in WWI, you get a fun and thought provoking campaign that sends you to all the theatres of the Great War.",
+      "genre": "FPS",
+      "plays": 0
+    },
+    {
+      "id": 8,
+      "title": "Command and Conquer: Generals - Zero Hour",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmI3NzdiMWItOGJkYS00OGNlLWE2NDgtNmU3ZjVmNmEwNTY1XkEyXkFqcGdeQXVyMTgyMzEyNDY@._V1_FMjpg_UX1000_.jpg",
+      "studio": "EA",
+      "releaseDate": "September 22, 2003",
+      "review": "Rarely does an expansion deserve a review, but this is the exception of all exceptions. A game that is beloved and widely played almost 20 years after its release. The addition of Generals Challenge, unique units available to the new sub-factions, addictive online play, and added campaigns make this game can't miss for fans of the RTS genre.",
+      "genre": "RTS",
+      "plays": 0
+    },
+    {
+      "id": 9,
+      "title": "Warcraft III",
+      "image": "https://assets-prd.ignimgs.com/2022/01/30/warcraft-3-reign-of-chaos-button-v2-1643529539744.jpg",
+      "studio": "Blizzard Entertainment",
+      "releaseDate": "July 3, 2003",
+      "review": "A game so iconic it not only inspired one of the most popular games of all time, World of Warcraft, but it inspired an entire genre, MOBA. With three unique factions, a fun campaign, and great online play, we are left with one question. After 20 years, where is Warcraft IV?",
+      "genre": "RTS",
+      "plays": 0
+    },
+    {
+      "id": 10,
+      "title": "Starcraft II",
+      "image": "https://m.media-amazon.com/images/I/91TbnEze+KL.jpg",
+      "studio": "Blizzard Entertainment",
+      "releaseDate": "July 27, 2010",
+      "review": "Leave it to Blizzard to put a genre back on the map. At the time of its release, RTS's popularity as a genre was dwindling with the rise of FPS. However, with this game everyone is reminded how enjoyable RTS games can be. Great campaign that exposes the player to each faction and endless fun in online play.",
+      "genre": "RTS",
+      "plays": 0
     }
-
   ]
 }

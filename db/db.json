@@ -99,6 +99,85 @@
       "review": "Leave it to Blizzard to put a genre back on the map. At the time of its release, RTS's popularity as a genre was dwindling with the rise of FPS. However, with this game everyone is reminded how enjoyable RTS games can be. Great campaign that exposes the player to each faction and endless fun in online play.",
       "genre": "RTS",
       "plays": 0
+    },
+    {
+      "id": 11,
+      "title": "Maplestory",
+      "image": "https://www.f2p.com/wp-content/uploads/2012/09/MapleStory-logo640.jpg",
+      "studio": "Nexon",
+      "releaseDate": "April 29, 2003",
+      "review": "Great 2D platformer MMORPG to play. It's my favorite game to play when I need to calm down from doing raids on WoW or playing an FPS game like CoD. Considering it's an MMORPG as well I end up getting into a raid, getting pissed off, then have to play the rest of the game again to calm myself down. 10/10 wont raid again.",
+      "genre": "MMORPG",
+      "plays": 0
+    },
+    {
+      "id": 12,
+      "title": "League of Legends",
+      "image": "https://i.imgur.com/bXz3Sup.jpeg",
+      "studio": "Riot",
+      "releaseDate": "October 27, 2009",
+      "review": "I honestly don't know why I continue playing this game. I get into ranked games and realize that my team is braindead, then they call me braindead, I punch the wall, punch my monitor, buy a new monitor, I end up with a permabanned account, make a new one, and the cycle of life continues, I will feed and they will report. 4/10 I keep playing again.",
+      "genre": "MOBA",
+      "plays": 0
+    },
+    {
+      "id": 13,
+      "title": "Risk of Rain 2",
+      "image": "https://images6.alphacoders.com/120/1202423.jpg",
+      "studio": "Hopoo games",
+      "releaseDate": "March 28, 2019",
+      "review": "I started this game off thinking it looked fun. I died 10 times, then my friends said they'd help me. I spent 90 minutes playing and dying just to realize I was supposed to be picking items up. After that my friends proceeded to pick up all the items before I could and I just watched them play the game for another 90 minutes. 8/10 fun twitch stream simulator.",
+      "genre": "Roguelike indie",
+      "plays": 0  
+    },
+    {
+      "id": 14,
+      "title": "Valorant",
+      "image": "https://images5.alphacoders.com/108/1081832.jpg",
+      "studio": "Riot",
+      "releaseDate": "June 2, 2020",
+      "review": "70% of my games have been the instalock Jett solo-pushing when we're defense then yelling at us along with the instalock Sage sitting in spawn crying on voice chat. I have also been told some questionable unwarranted things in voice chat. Definitely won't play again.",
+      "genre": "FPS",
+      "plays": 0
+    },
+    {
+      "id": 15,
+      "title": "World of Warcraft",
+      "image": "https://i.imgur.com/uU0p9Z1.jpeg",
+      "studio": "Blizzard",
+      "releaseDate": "November 23, 2004",
+      "review": "Cheap way to make sure my son keeps his virginity. $156 a year to make sure my high school son doesn't go out and get someone pregnant!",
+      "genre": "MMORPG",
+      "plays": 0
+    },
+    {
+      "id": 16,
+      "title": "Phasmophobia",
+      "image": "https://wallpapercave.com/wp/wp7775490.jpg",
+      "studio": "Kinetic Games",
+      "releaseDate": "September 18, 2020",
+      "review": "Fun game for flirting with ghosts and demons.",
+      "genre": "Indie horror puzzle",
+      "plays": 0
+    },
+    {
+      "id": 17,
+      "title": "Genshin Impact",
+      "image": "https://images7.alphacoders.com/110/1105631.jpg",  
+      "studio": "miHoYo",
+      "releaseDate": "September 28, 2020",
+      "review": "I got lured in because it was a free MMO with cute characters and now I'm down about $2.8k.",
+      "genre": "MMORPG",
+      "plays": 0
+    },
+    {
+      "id": 18,
+      "title": "Among Us",
+      "image": "https://images3.alphacoders.com/115/1151761.png",
+      "studio": "InnerSloth LLC",
+      "releaseDate": "June 15, 2018",
+      "review": "Played with my girlfriend and some friends and found out through this game that the person that's most likely gonna target and kill you is probably your s/o.",
+      "plays": 0
     }
   ]
 }

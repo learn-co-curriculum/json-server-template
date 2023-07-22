@@ -1,3 +1,6 @@
+
+
+// GRABS WORKOUT DATABASE AND GENERATES A RANDOM WORKOUT PROPERTY FROM THE ARRAY
 fetch("http://localhost:3000/workouts")
 .then(res => res.json())
 .then(workOuts => getRandomWorkout(workOuts))

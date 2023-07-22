@@ -1,9 +1,10 @@
 fetch("http://localhost:3000/workouts")
 .then(res => res.json())
-.then(workOuts => console.log(workOuts))
-
-
-// TO DO
-// -find bootstrap landing page template.
-// -create button out of die that triggers workout suggestion & displays workout gif. Get it to spin a bit.
-// -create form to record workout circuit
+.then(workOuts => getRandomWorkout(workOuts))
+const getRandomWorkout = (workOuts) => { 
+    if (!Array.isArray(workOuts) || workOuts.length === 0) {
+        return null;
+    }
+    const randomIndex = Math.floor(Math.random() * workOuts.length);
+    return workOuts[randomIndex];
+}

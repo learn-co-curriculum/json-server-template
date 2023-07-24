@@ -4,14 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script defer src="index.js"></script>
     <title>HTML 5 Boilerplate</title>
     <!-- <link rel="stylesheet" href="style.css"> -->
   </head>
   <body>
-    THIS IS A PAGE!
+    <h1>HIIT WORKOUT</h1>
     <div id="svg-container">
-        <img src="src/Dice_svg.svg" />
+        <img id ="roll-die" src="src/Dice_svg.svg" />
     </div>
-	<script src="index.js"></script>
+    <div id="current-circuit-container">
+      <ul id="current-circuit">
+        <!-- GENERATED WORKOUT LINE ITEMS GO HERE. -->
+      </ul>
+      <span>
+        <button id="save-circuit">Archive Circuit</button> <button id="clear-circuit">Clear Circuit</button>
+      </span>
+    </div>
   </body>
 </html>

@@ -14,30 +14,20 @@ const getRandomWorkout = (workOuts) => {
     const generatedWorkOut = workOuts[randomIndex];
     const circuitList = document.querySelector(`#current-circuit`)
     const newP = document.createElement(`li`)
-
     const workoutImg = document.createElement(`img`)
     workoutImg.style.height = `200px`
     workoutImg.src = generatedWorkOut.img
-    
     newP.innerText = generatedWorkOut.workout
     newP.setAttribute(`class`, `current`)
     circuitList.appendChild(newP)
-
-
-    // SET TIMEOUT WORKS, MAKE SURE THE TIMEOUT IS SET TO 8000 BY DEFAULT WHEN PRESENTING
-const imgSpan = document.createElement(`span`)
-imgSpan.append(workoutImg)
-newP.append(imgSpan)
-
-
-setTimeout(() => {
-    workoutImg.remove();
-}, 5000);
-    
-}
-
-})
-
+    const imgSpan = document.createElement(`span`)
+    imgSpan.append(workoutImg)
+    newP.append(imgSpan)
+// SET TIMEOUT WORKS, MAKE SURE THE TIMEOUT IS SET TO 8000 BY DEFAULT WHEN PRESENTING
+    setTimeout(() => {
+        workoutImg.remove();
+    }, 5000);  
+    }})
 
 
 
@@ -51,12 +41,12 @@ clearButton.addEventListener(`click`, () => {
 
 
 
-//CIRCUIT IS ARCHIVED IN ITS OWN DIV BELOW CURRENT CIRCUIT
+//CIRCUIT IS ARCHIVED IN ITS OWN DIV BELOW
 const archiveButton = document.querySelector(`#save-circuit`)
 archiveButton.addEventListener(`click`, () => {
     console.log(`i am archived!`)
     const circuitHistory = document.querySelector(`#circuit-history`)
-    const allWorkouts = document.querySelectorAll(`.current`)
+    const allWorkouts = document.querySelectorAll(`#current-circuit .current`)
     // LOOP THROUGH EACH ELEMENT IN NODE LIST AND APPEND TO CIRCUIT HISTORY
     const archiveDiv = document.createElement(`div`)
     archiveDiv.style.borderStyle = `outset`
@@ -66,7 +56,7 @@ archiveButton.addEventListener(`click`, () => {
         archiveDiv.appendChild(oneCircuit)
         oneCircuit.appendChild(workout.cloneNode(true));
         circuitHistory.append(archiveDiv)
-        circuitList.innerText = `` 
+        circuitList.textContent = `` 
     })
 })
 

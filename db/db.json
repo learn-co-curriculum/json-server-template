@@ -41,6 +41,41 @@
       "category": "miscellaneous",
       "completed": "",
       "likes": 0
+    },
+    {
+      "id": 7,
+      "question": "What is your favorite Disney movie?",
+      "category": "miscellaneous",
+      "completed": false,
+      "likes": 0
+    },
+    {
+      "id": 8,
+      "question": "What was your favorite subject in school?",
+      "category": "miscellaneous",
+      "completed": false,
+      "likes": 0
+    },
+    {
+      "id": 9,
+      "question": "Would you rather lose power or water?",
+      "category": "miscellaneous",
+      "completed": false,
+      "likes": 0
+    },
+    {
+      "id": 10,
+      "question": "Would you rather be famous or rich?",
+      "category": "miscellaneous",
+      "completed": false,
+      "likes": 0
+    },
+    {
+      "id": 11,
+      "question": "What is your favorite holiday?",
+      "category": "miscellaneous",
+      "completed": false,
+      "likes": 0
     }
   ]
 }

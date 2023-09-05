@@ -4,42 +4,42 @@
       "id": 1,
       "question": "If you could be on any game show, what would it be?",
       "category": "miscellaneous",
-      "completed": "",
+      "completed": false,
       "likes": 0
     },
     {
       "id": 2,
       "question": "What is your favorite movie?",
       "category": "Recreation",
-      "completed": "",
+      "completed": false,
       "likes": 0
     },
     {
       "id": 3,
       "question": "Do you play any musical instruments?",
       "category": "Recreation",
-      "completed": "",
+      "completed": false,
       "likes": 0
     },
     {
       "id": 4,
       "question": "What do you want to do when you retire?",
       "category": "miscellaneous",
-      "completed": "",
+      "completed": false,
       "likes": 0
     },
     {
       "id": 5,
       "question": "What’s a challenge you’re facing at work today?",
       "category": "Work",
-      "completed": "",
+      "completed": false,
       "likes": 0
     },
     {
       "id": 6,
       "question": "Who is the greatest cook you know?",
       "category": "miscellaneous",
-      "completed": "",
+      "completed": false,
       "likes": 0
     },
     {

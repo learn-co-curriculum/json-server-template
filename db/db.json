@@ -2,78 +2,78 @@
   "questions": [
     {
       "id": 1,
-      "question": "If you could be on any game show, what would it be?",
-      "category": "miscellaneous",
+      "text": "If you could be on any game show, what would it be?",
+      "category": "Miscellaneous",
       "completed": false,
       "likes": 0
     },
     {
       "id": 2,
-      "question": "What is your favorite movie?",
+      "text": "What is your favorite movie?",
       "category": "Recreation",
       "completed": false,
       "likes": 0
     },
     {
       "id": 3,
-      "question": "Do you play any musical instruments?",
+      "text": "Do you play any musical instruments?",
       "category": "Recreation",
       "completed": false,
       "likes": 0
     },
     {
       "id": 4,
-      "question": "What do you want to do when you retire?",
-      "category": "miscellaneous",
+      "text": "What do you want to do when you retire?",
+      "category": "Miscellaneous",
       "completed": false,
       "likes": 0
     },
     {
       "id": 5,
-      "question": "What’s a challenge you’re facing at work today?",
+      "text": "What’s a challenge you’re facing at work today?",
       "category": "Work",
       "completed": false,
       "likes": 0
     },
     {
       "id": 6,
-      "question": "Who is the greatest cook you know?",
-      "category": "miscellaneous",
+      "text": "Who is the greatest cook you know?",
+      "category": "Miscellaneous",
       "completed": false,
       "likes": 0
     },
     {
       "id": 7,
-      "question": "What is your favorite Disney movie?",
-      "category": "miscellaneous",
+      "text": "What is your favorite Disney movie?",
+      "category": "Miscellaneous",
       "completed": false,
       "likes": 0
     },
     {
       "id": 8,
-      "question": "What was your favorite subject in school?",
+      "text": "What was your favorite subject in school?",
       "category": "miscellaneous",
       "completed": false,
       "likes": 0
     },
     {
       "id": 9,
-      "question": "Would you rather lose power or water?",
-      "category": "miscellaneous",
+      "text": "Would you rather lose power or water?",
+      "category": "Miscellaneous",
       "completed": false,
       "likes": 0
     },
     {
       "id": 10,
-      "question": "Would you rather be famous or rich?",
-      "category": "miscellaneous",
+      "text": "Would you rather be famous or rich?",
+      "category": "Miscellaneous",
       "completed": false,
       "likes": 0
     },
     {
       "id": 11,
-      "question": "What is your favorite holiday?",
-      "category": "miscellaneous",
+      "text": "What is your favorite holiday?",
+      "category": "Miscellaneous",
       "completed": false,
       "likes": 0
     }

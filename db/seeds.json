@@ -1,444 +1,268 @@
 {
-  "example": [
+  "chickens": [
     {
+      "date": "2024-05-17",
       "id": 1,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "group": 1,
+      "number": 10,
+      "eggs": 100,
+      "food": 10
     },
     {
+      "date": "2024-05-17",
       "id": 2,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "group": 1,
+      "number": 8,
+      "eggs": 85,
+      "food": 20
     },
     {
+      "date": "2024-05-17",
       "id": 3,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "group": 2,
+      "number": 15,
+      "eggs": 150,
+      "food": 35
     },
     {
+      "date": "2024-05-17",
       "id": 4,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "group": 2,
+      "number": 12,
+      "eggs": 110,
+      "food": 28
     },
     {
+      "date": "2024-05-17",
       "id": 5,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 6,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 7,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 8,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 9,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 10,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 11,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 12,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 13,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 14,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 15,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 16,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 17,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 18,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 19,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 20,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 21,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 22,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 23,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 24,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 25,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 26,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 27,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 28,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 29,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 30,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 31,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 32,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 33,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 34,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 35,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 36,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 37,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 38,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 39,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 40,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "group": 3,
+      "number": 20,
+      "eggs": 200,
+      "food": 50
     }
-  ]
+],
+"cows": [
+  {
+    "date": "2024-05-17",
+    "id": 1,
+    "name": "Tom",
+    "age": 24,
+    "weight": 450,
+    "milk": 20,
+    "feed": "Grass"
+  },
+  {
+    "date": "2024-05-17",
+    "id": 2,
+    "name": "Jerry",
+    "age": 30,
+    "weight": 490,
+    "milk": 25,
+    "feed": "Hay"
+  },
+  {
+    "date": "2024-05-17",
+    "id": 3,
+    "name": "Lucy",
+    "age": 18,
+    "weight": 420,
+    "milk": 18,
+    "feed": "Silage"
+  },
+  {
+    "date": "2024-05-17",
+    "id": 4,
+    "name": "Bella",
+    "age": 36,
+    "weight": 510,
+    "milk": 28,
+    "feed": "Grain"
+  },
+  {
+    "date": "2024-05-17",
+    "id": 5,
+    "name": "Luna",
+    "age": 22,
+    "weight": 440,
+    "milk": 21,
+    "feed": "Grass"
+  },
+  {
+    "date": "2024-05-17",
+    "id": 6,
+    "name": "Max",
+    "age": 26,
+    "weight": 460,
+    "milk": 23,
+    "feed": "Hay"
+  },
+  {
+    "date": "2024-05-17",
+    "id": 7,
+    "name": "Charlie",
+    "age": 32,
+    "weight": 495,
+    "milk": 26,
+    "feed": "Silage"
+  },
+  {
+    "date": "2024-05-17",
+    "id": 8,
+    "name": "Molly",
+    "age": 28,
+    "weight": 480,
+    "milk": 24,
+    "feed": "Grain"
+  },
+  {
+    "date": "2024-05-17",
+    "id": 9,
+    "name": "Sadie",
+    "age": 20,
+    "weight": 430,
+    "milk": 19,
+    "feed": "Grass"
+  },
+  {
+    "date": "2024-05-17",
+    "id": 10,
+    "name": "Oscar",
+    "age": 40,
+    "weight": 520,
+    "milk": 30,
+    "feed": "Grain"
+  }
+],
+
+"products": [ 
+  {
+    "id": 1,
+    "name": "Cow",
+    "imageUrl": "https://i.pinimg.com/564x/d7/d8/3c/d7d83cf0a11793d98b5907a8afd13b21.jpg",
+    "description": "3 year old",
+    "price": 80000,
+    "location": "Kilifi"
+  },
+  {
+    "id": 2,
+    "name": "Chicken",
+    "imageUrl": "https://i.pinimg.com/564x/30/42/f4/3042f4a966af79f8d6d5c95e59c83fc1.jpg",
+    "description": "6 months old",
+    "price": "500",
+    "location": "Kakamega"
+  },
+  {
+    "id": 3,
+    "name": "tractor",
+    "imageUrl": "https://i.pinimg.com/564x/75/dc/2f/75dc2fbd793747d966cdbe42face51e5.jpg",
+    "description": "Ford Tractor",
+    "price": "2600000",
+    "location": "Kitale"
+  },
+  {
+    "id": 4,
+    "name": "Eggs",
+    "imageUrl": "https://i.pinimg.com/564x/1a/fe/d7/1afed7fe5e450b06c347bfa7810b38a3.jpg",
+    "description": "A crate of eggs",
+    "price": 450,
+    "location": "Eldoret"
+  },
+  {
+    "id": 5,
+    "name": "Milk",
+    "imageUrl": "https://i.pinimg.com/564x/5e/14/52/5e14526b4290b95c0bed550cf004d7f6.jpg",
+    "description": "fresh milk",
+    "price": "150 ",
+    "location": "Eldoret"
+  },
+  {
+    "id": 6,
+    "name": "Fertilizer",
+    "imageUrl": "https://i.pinimg.com/564x/dd/7e/1c/dd7e1ce0e31d33adfabd66934b999cb5.jpg",
+    "description": "DAP Fertlizer",
+    "price": "3000",
+    "location": "Eldoret"
+  },
+  {
+    "id": 7,
+    "name": "Maize Seed",
+    "imageUrl": "https://i.pinimg.com/564x/75/69/87/756987113da38d16783db702353b87b3.jpg",
+    "description": "A packet of maize seed",
+    "price": "1500",
+    "location": "Eldoret"
+  },
+  {
+    "id": 8,
+    "name": "Pesticide",
+    "imageUrl": "https://i.pinimg.com/564x/3e/b4/5a/3eb45a8f5edc24960403124305804284.jpg",
+    "description": "Best pest killer",
+    "price": "150 ",
+    "location": "Eldoret"
+  }
+],
+ "veterinarians": [
+  {
+    "id": 1,
+    "imageUrl": "https://media.istockphoto.com/id/1189303662/photo/portrait-of-happy-african-doctor-at-private-clinic.jpg?s=612x612&w=0&k=20&c=P1sA44uF-qI-8Ox5iv4j7dMThSB9trT_QPjYdS13sKo=",
+    "name": "Dr. John Smith",
+    "contact": "john.smith@example.com",
+    "phone": "+1234567890",
+    "specializations": [
+      "Beef Cattle",
+      "Dairy Cattle",
+      "Poultry"
+    ],
+    "license": "VET12345"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://img.freepik.com/free-photo/ill-puppy-x-ray-image_329181-10408.jpg",
+    "name": "Dr. Emily Johnson",
+    "contact": "emily.johnson@example.com",
+    "phone": "+1987654321",
+    "specializations": [
+      "Beef Cattle",
+      "Dairy Cattle",
+      "Poultry"
+    ],
+    "license": "VET54321"
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://vetmed.illinois.edu/wp-content/uploads/2022/02/johnson-walker-feature.jpg",
+    "name": "Dr. Sarah Lee",
+    "contact": "sarah.lee@example.com",
+    "phone": "+1122334455",
+    "specializations": [
+      "Poultry",
+      "Dairy Cattle"
+    ],
+    "license": "VET67890"
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://t3.ftcdn.net/jpg/00/90/13/54/360_F_90135478_lxK4uE9obbedwV0IRjEC0thl5yU94Ngg.jpg",
+    "name": "Dr. Michael Brown",
+    "contact": "michael.brown@example.com",
+    "phone": "+3344556677",
+    "specializations": [
+      "Beef Cattle",
+      "Sheep"
+    ],
+    "license": "VET11223"
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://t4.ftcdn.net/jpg/07/73/67/37/360_F_773673773_BvF150LmX1ZNZRtZZta73STLK3JDnrFv.jpg",
+    "name": "Dr. Maria Garcia",
+    "contact": "maria.garcia@example.com",
+    "phone": "+5566778899",
+    "specializations": [
+      "Exotic Animals",
+      "Beef Cattle",
+      "Dairy Cattle"
+    ],
+    "license": "VET99807"
+  }
+]
 }

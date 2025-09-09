@@ -1,444 +1,186 @@
 {
-  "example": [
+  "games": [
     {
-      "id": 1,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 452,
+      "title": "World of Tanks",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/452/thumbnail.jpg",
+      "short_description": "A free-to-play MMO action game focused on armored warfare.",
+      "release_date": "2011-04-12"
     },
     {
-      "id": 2,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 453,
+      "title": "Overwatch 2",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/453/thumbnail.jpg",
+      "short_description": "A hero-focused first-person team shooter from Blizzard Entertainment.",
+      "release_date": "2022-10-04"
     },
     {
-      "id": 3,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 454,
+      "title": "Fall Guys",
+      "genre": "Battle Royale",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/454/thumbnail.jpg",
+      "short_description": "A massively multiplayer party game with up to 60 players online.",
+      "release_date": "2020-08-04"
     },
     {
-      "id": 4,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 455,
+      "title": "Hollow Knight",
+      "genre": "Metroidvania",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/455/thumbnail.jpg",
+      "short_description": "An epic action adventure through a vast ruined kingdom of insects and heroes.",
+      "release_date": "2017-02-24"
     },
     {
-      "id": 5,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 456,
+      "title": "Genshin Impact",
+      "genre": "Action RPG",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/456/thumbnail.jpg",
+      "short_description": "An open-world adventure awaits the player as they explore the world of Teyvat.",
+      "release_date": "2020-09-28"
     },
     {
-      "id": 6,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 457,
+      "title": "Dauntless",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/457/thumbnail.jpg",
+      "short_description": "A free-to-play, co-op action RPG with gameplay similar to Monster Hunter.",
+      "release_date": "2019-05-21"
     },
     {
-      "id": 7,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 458,
+      "title": "Valorant",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/458/thumbnail.jpg",
+      "short_description": "A 5v5 character-based FPS shooter with unique agent abilities.",
+      "release_date": "2020-06-02"
     },
     {
-      "id": 8,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 459,
+      "title": "Marvel Rivals",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/459/thumbnail.jpg",
+      "short_description": "A free-to-play superhero team shooter from NetEase.",
+      "release_date": "2023-08-15"
     },
     {
-      "id": 9,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 460,
+      "title": "Diablo Immortal",
+      "genre": "MMOARPG",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/460/thumbnail.jpg",
+      "short_description": "Mobile and PC MMOARPG set between Diablo II and III.",
+      "release_date": "2022-06-02"
     },
     {
-      "id": 10,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 461,
+      "title": "Halo Infinite",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/461/thumbnail.jpg",
+      "short_description": "Free-to-play Halo multiplayer experience.",
+      "release_date": "2021-11-15"
     },
     {
-      "id": 11,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 462,
+      "title": "Fortnite",
+      "genre": "Battle Royale",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/462/thumbnail.jpg",
+      "short_description": "A free-to-play battle royale game with building mechanics.",
+      "release_date": "2017-07-21"
     },
     {
-      "id": 12,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 463,
+      "title": "Apex Legends",
+      "genre": "Battle Royale",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/463/thumbnail.jpg",
+      "short_description": "A squad-based battle royale shooter from Respawn.",
+      "release_date": "2019-02-04"
     },
     {
-      "id": 13,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 464,
+      "title": "Warframe",
+      "genre": "Action",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/464/thumbnail.jpg",
+      "short_description": "A cooperative third-person shooter with fast-paced combat.",
+      "release_date": "2013-03-25"
     },
     {
-      "id": 14,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 465,
+      "title": "Smite",
+      "genre": "MOBA",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/465/thumbnail.jpg",
+      "short_description": "A third-person multiplayer online battle arena game.",
+      "release_date": "2014-03-25"
     },
     {
-      "id": 15,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 466,
+      "title": "Destiny 2",
+      "genre": "MMOFPS",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/466/thumbnail.jpg",
+      "short_description": "A multiplayer first-person shooter with RPG elements.",
+      "release_date": "2017-10-24"
     },
     {
-      "id": 16,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 467,
+      "title": "Team Fortress 2",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/467/thumbnail.jpg",
+      "short_description": "A classic team-based multiplayer shooter.",
+      "release_date": "2007-10-10"
     },
     {
-      "id": 17,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 468,
+      "title": "Path of Exile",
+      "genre": "Action RPG",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/468/thumbnail.jpg",
+      "short_description": "A dark fantasy action RPG with deep skill trees.",
+      "release_date": "2013-10-23"
     },
     {
-      "id": 18,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 469,
+      "title": "League of Legends",
+      "genre": "MOBA",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/469/thumbnail.jpg",
+      "short_description": "A team-based strategy game where two teams battle to destroy the other’s base.",
+      "release_date": "2009-10-27"
     },
     {
-      "id": 19,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 470,
+      "title": "Runescape",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/470/thumbnail.jpg",
+      "short_description": "A long-running fantasy MMORPG with extensive skills and quests.",
+      "release_date": "2001-01-04"
     },
     {
-      "id": 20,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 21,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 22,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 23,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 24,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 25,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 26,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 27,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 28,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 29,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 30,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 31,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 32,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 33,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 34,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 35,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 36,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 37,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 38,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 39,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 40,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": 471,
+      "title": "Counter-Strike: GO",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/471/thumbnail.jpg",
+      "short_description": "A competitive first-person shooter featuring team-based gameplay.",
+      "release_date": "2012-08-21"
     }
-  ]
+  ],
+  "favorites": []
 }
+
